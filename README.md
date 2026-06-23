@@ -5,6 +5,39 @@
 **Dataset Task:** Generate 200 rows of realistic food delivery order logs (CSV format)
 
 ---
+#`# Prompts Used for Generation
+
+To ensure a fair benchmark, the exact same prompt configuration was tested across all five AI models.
+
+### 1. Bad Prompt
+```
+Generate a realistic synthetic dataset representing user order logs for an online food delivery platform named "FoodFast" format: csv, 200 row
+```
+
+### 2. Good Prompt
+````
+You are a senior data analyst. Your task is to generate a realistic synthetic dataset representing user order logs for an online food delivery platform named "FoodFast". Generate a CSV dataset with exactly the following 14 columns:
+1. order_id (Format: FF-001 to FF-200)
+2. customer_id (Unique identifier, some customers should appear multiple times)
+3. item_name (Popular food)
+4. item_category (Meals, Dessert, Drinks, Salads)
+5. order_timestamp (Format: 2025-01-01 to 2026-06-01)
+6. delivery_duration_mins (Integer between 12 to 90)
+7. item_price_usd (Price per single item)
+8. quantity (Integer)
+9. total_amount_usd (Strictly calculated as item_price * quantity, rounded to 2 decimals)
+10. payment_method (Credit Card, Cash on Delivery, Apple Pay, PayPal)
+11. delivery_status (Delivered, Cancelled, In-Progress, Returned)
+12. customer_rating (1.0 to 5.0, or null if not rated)
+13. order_location (city name)
+Rules & Business Logic
+Encode realistic patterns: "Meals" and "Dessert" categories should have a higher average item_price_usd. 
+Long delivery_duration_mins should loosely correlate with lower customer_rating.
+Size
+- Generate exactly 200 rows of data.
+Format
+- Return the output strictly as a downloadable CSV block with a header row. 
+```
 
 ### Executive Scorecard
 
