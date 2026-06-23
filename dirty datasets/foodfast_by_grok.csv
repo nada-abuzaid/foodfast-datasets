@@ -1,0 +1,201 @@
+order_id,user_id,order_timestamp,restaurant_name,cuisine_type,items,total_amount,delivery_fee,tip,payment_method,status,delivery_address,delivery_time_minutes
+ORD60227680,USR402501,2025-11-29 22:34:00,Chinese Wok,American,"Burrito x2, Pizza x1, Fried Rice x2, Pad Thai x1",37.61,6.81,1.53,Cash,Delivered,"5735 Maple Ln, Philadelphia",36
+ORD87593586,USR857022,2025-02-10 07:55:00,Burger Barn,Mexican,"Salad x3, Curry x1, Curry x2",37.0,4.32,14.05,Google Pay,Delivered,"2903 Maple Ln, San Jose",35
+ORD13965687,USR203229,2025-06-11 06:41:00,Mexican Grill,Mexican,"Sushi x2, Sushi x1, Pasta x3, Pad Thai x3",76.38,7.48,5.99,Debit Card,Cancelled,"8185 Main St, Dallas",23
+ORD81165354,USR259618,2025-05-17 20:21:00,Burger Barn,Japanese,"Sushi x2, Pizza x3, Pad Thai x3, Sushi x3",110.83,7.34,4.48,Google Pay,Cancelled,"6226 Oak Ave, Chicago",54
+ORD99954139,USR822507,2025-02-05 17:49:00,Sushi Spot,American,"Pasta x1, Pad Thai x3, Burrito x2, Taco x3",94.3,6.44,10.69,Cash,In Progress,"8579 Elm Blvd, San Diego",27
+ORD20055070,USR003524,2025-10-04 04:46:00,Vegan Vibes,Thai,"Taco x2, Fried Rice x1, Burger x1, Fried Rice x2",59.48,5.33,10.94,Google Pay,Delivered,"6696 Pine Rd, New York",26
+ORD21442294,USR850989,2025-05-02 05:26:00,Mexican Grill,Mexican,"Fried Rice x1, Sushi x2",15.23,4.94,13.9,Cash,In Progress,"9205 Elm Blvd, San Antonio",29
+ORD12070304,USR950580,2025-02-04 21:55:00,Taco Town,Mexican,Burrito x1,75.79,3.19,1.23,Google Pay,In Progress,"3446 Pine Rd, Phoenix",35
+ORD21649906,USR505513,2025-02-05 07:23:00,Thai Terrace,American,"Pasta x3, Pad Thai x3, Pasta x1, Pasta x2",112.83,3.51,13.17,PayPal,Delivered,"9164 Oak Ave, Los Angeles",37
+ORD22368529,USR068031,2025-05-15 05:47:00,Mexican Grill,Thai,"Pasta x1, Burger x1, Sushi x3, Pizza x2",76.16,3.73,1.91,PayPal,In Progress,"5962 Oak Ave, New York",35
+ORD63589792,USR171419,2025-07-30 21:55:00,Taco Town,Japanese,"Burger x2, Pizza x2",38.36,7.07,6.9,PayPal,Cancelled,"487 Oak Ave, Houston",45
+ORD38926395,USR919192,2025-02-25 19:27:00,Indian Palace,Indian,"Fried Rice x3, Pasta x1, Fried Rice x3",34.96,3.21,6.54,Apple Pay,Cancelled,"7166 Main St, Philadelphia",41
+ORD66195636,USR516371,2025-10-19 09:25:00,Italian Bistro,Chinese,Pad Thai x2,37.07,6.92,9.1,PayPal,Picked Up,"7344 Oak Ave, San Diego",52
+ORD49710563,USR876210,2025-05-06 15:39:00,Burger Barn,Mexican,"Burrito x1, Fried Rice x2, Fried Rice x1, Sushi x3",87.2,7.45,12.91,Credit Card,Picked Up,"2981 Maple Ln, Houston",49
+ORD02848695,USR986758,2025-10-08 14:57:00,Sushi Spot,Indian,"Salad x2, Taco x3, Pad Thai x3, Salad x3",40.12,5.19,10.7,Debit Card,In Progress,"5338 Maple Ln, Philadelphia",25
+ORD12670454,USR249568,2025-10-22 12:30:00,Pizza Palace,Japanese,"Fried Rice x2, Pasta x3, Pasta x3",109.27,5.43,4.09,Cash,Delivered,"5607 Elm Blvd, San Antonio",30
+ORD89959560,USR481234,2025-06-22 12:17:00,Chinese Wok,Japanese,Salad x1,93.65,3.25,14.28,Debit Card,Delivered,"608 Oak Ave, New York",32
+ORD86241942,USR369771,2025-06-09 03:37:00,Pizza Palace,Japanese,"Fried Rice x2, Taco x1, Burrito x3, Taco x1, Pad Thai x3",78.04,3.6,14.76,Credit Card,In Progress,"7118 Pine Rd, Dallas",24
+ORD53881968,USR747928,2025-10-03 15:29:00,Chinese Wok,Chinese,"Pad Thai x2, Taco x1, Pad Thai x2, Taco x2, Burrito x3",85.16,4.67,7.41,PayPal,Cancelled,"3575 Pine Rd, San Diego",36
+ORD38720907,USR476647,2025-02-17 09:14:00,Chinese Wok,Indian,"Pad Thai x3, Burrito x2",64.69,5.64,6.38,Google Pay,In Progress,"7534 Pine Rd, Philadelphia",39
+ORD21115712,USR479521,2025-04-10 09:14:00,Indian Palace,American,"Pizza x3, Pasta x1, Pad Thai x1",117.3,5.76,10.46,Debit Card,Picked Up,"300 Maple Ln, Los Angeles",38
+ORD44109484,USR060153,2025-05-08 03:35:00,Chinese Wok,Thai,"Burrito x1, Pasta x2, Salad x2, Pad Thai x3, Fried Rice x2",74.71,3.29,14.4,Credit Card,Cancelled,"4435 Main St, Houston",30
+ORD25146402,USR280227,2025-10-29 21:51:00,Taco Town,Mexican,Pasta x1,83.0,7.53,12.4,Credit Card,Delivered,"5139 Maple Ln, Chicago",56
+ORD94434254,USR587602,2025-12-12 18:37:00,Pizza Palace,Chinese,"Burrito x1, Sushi x2, Pasta x3",61.43,4.38,14.95,Cash,Picked Up,"7800 Pine Rd, Los Angeles",46
+ORD36836298,USR543394,2025-09-21 00:42:00,Italian Bistro,Mexican,"Pizza x1, Pasta x2, Burrito x2, Salad x1",36.37,5.74,13.92,Cash,Picked Up,"572 Maple Ln, Los Angeles",35
+ORD73042819,USR619274,2025-09-05 15:15:00,Mexican Grill,Thai,"Fried Rice x1, Burrito x3",93.36,3.67,1.05,Cash,In Progress,"4477 Main St, Dallas",38
+ORD78568443,USR739892,2025-07-16 07:54:00,Chinese Wok,Italian,"Salad x3, Fried Rice x2, Sushi x2",116.31,3.62,14.48,PayPal,Delivered,"1733 Maple Ln, San Diego",49
+ORD01890726,USR303659,2025-11-17 22:56:00,Mexican Grill,Chinese,"Pizza x3, Burger x1, Pad Thai x1, Burger x2, Burger x3",88.91,3.49,2.5,PayPal,Delivered,"5414 Main St, New York",38
+ORD34246116,USR364526,2025-08-24 08:42:00,Pizza Palace,Chinese,"Pad Thai x3, Pasta x1, Burger x2, Curry x3",46.41,7.8,10.35,Cash,In Progress,"6402 Elm Blvd, Houston",26
+ORD25592962,USR567064,2025-05-27 07:38:00,Indian Palace,American,"Burrito x2, Sushi x3",25.2,6.13,0.59,Cash,Delivered,"6077 Oak Ave, San Jose",25
+ORD93427835,USR219992,2025-06-23 03:29:00,Burger Barn,American,"Fried Rice x3, Curry x1",98.02,3.06,8.05,Cash,In Progress,"9677 Elm Blvd, Phoenix",60
+ORD91208592,USR089341,2025-01-20 09:31:00,Burger Barn,Italian,"Pasta x1, Fried Rice x2",53.96,7.74,10.45,Apple Pay,Picked Up,"2631 Elm Blvd, San Jose",26
+ORD86926242,USR393960,2025-05-22 06:07:00,Mexican Grill,Italian,"Burrito x1, Pizza x2",40.57,3.62,8.47,Credit Card,Cancelled,"3638 Oak Ave, San Jose",41
+ORD77529957,USR181375,2025-01-09 05:16:00,Pizza Palace,American,"Pasta x1, Burger x2, Salad x2, Pasta x3",26.45,5.51,14.18,Credit Card,In Progress,"610 Main St, San Diego",50
+ORD84174831,USR165735,2025-05-31 14:32:00,Vegan Vibes,Mexican,Burger x3,83.35,6.83,10.81,Debit Card,Picked Up,"3843 Elm Blvd, San Diego",41
+ORD83733296,USR400473,2025-03-08 17:03:00,Vegan Vibes,Thai,"Curry x3, Burger x2, Curry x3, Fried Rice x3, Pizza x2",78.04,4.75,8.67,Debit Card,Cancelled,"3774 Main St, San Diego",42
+ORD83758898,USR660982,2025-04-03 08:44:00,Thai Terrace,Japanese,"Pizza x1, Sushi x3, Fried Rice x1",29.9,6.16,0.46,Google Pay,Cancelled,"6978 Elm Blvd, San Antonio",41
+ORD13395817,USR004464,2025-04-21 16:07:00,Indian Palace,Mexican,Pad Thai x3,86.24,5.42,10.01,Credit Card,Cancelled,"9919 Main St, San Antonio",20
+ORD29772144,USR152563,2025-07-23 23:02:00,Chinese Wok,Italian,"Burger x2, Burrito x2, Burrito x2, Fried Rice x2",27.09,3.09,4.87,Apple Pay,Picked Up,"1543 Elm Blvd, Philadelphia",26
+ORD25533331,USR515937,2025-11-27 04:15:00,Burger Barn,American,"Taco x1, Burrito x1, Burger x1",114.89,6.13,6.96,Apple Pay,Picked Up,"5395 Pine Rd, San Jose",29
+ORD44675304,USR032690,2025-11-01 16:24:00,Mexican Grill,Thai,"Pizza x2, Burrito x3, Taco x2, Burrito x2, Pasta x1",115.56,5.24,12.16,PayPal,Delivered,"2927 Main St, Dallas",35
+ORD79563937,USR606335,2025-07-17 09:16:00,Vegan Vibes,Chinese,"Curry x1, Burrito x3",29.85,4.74,14.52,Google Pay,Picked Up,"9849 Main St, Chicago",39
+ORD56317999,USR065039,2025-06-24 15:12:00,Taco Town,American,"Burger x2, Burger x3",95.94,7.17,13.26,Credit Card,In Progress,"2247 Maple Ln, San Jose",44
+ORD11669703,USR796772,2025-05-03 09:51:00,Mexican Grill,Chinese,"Curry x3, Burrito x2",63.48,4.4,5.73,Apple Pay,Picked Up,"3371 Maple Ln, Chicago",28
+ORD80439751,USR014580,2025-04-24 14:56:00,Indian Palace,Italian,"Pizza x2, Pasta x2, Taco x2, Burger x2",38.58,4.58,1.49,Google Pay,In Progress,"2354 Main St, Chicago",38
+ORD94874690,USR219647,2025-05-02 09:07:00,Pizza Palace,American,"Burrito x2, Burger x1, Salad x3, Pasta x1",81.36,5.87,10.78,PayPal,Picked Up,"5880 Oak Ave, New York",56
+ORD46090559,USR534692,2025-01-09 11:50:00,Burger Barn,Japanese,"Burger x3, Curry x1",19.66,5.72,12.2,Debit Card,Picked Up,"3086 Oak Ave, San Diego",24
+ORD79027833,USR384062,2025-01-25 20:21:00,Thai Terrace,Italian,"Fried Rice x2, Salad x2, Curry x1",67.1,5.48,13.86,Apple Pay,In Progress,"7055 Main St, Los Angeles",47
+ORD68530636,USR463083,2025-08-11 08:40:00,Pizza Palace,Italian,"Curry x3, Sushi x1, Sushi x3, Salad x1",28.25,4.17,9.68,PayPal,Picked Up,"630 Maple Ln, San Jose",29
+ORD69375536,USR217435,2025-05-15 08:45:00,Mexican Grill,American,"Pad Thai x3, Salad x1, Burger x1, Burger x2, Sushi x3",61.74,3.43,10.23,PayPal,In Progress,"9111 Maple Ln, Los Angeles",38
+ORD88796751,USR217053,2025-10-10 04:39:00,Burger Barn,Italian,"Fried Rice x3, Salad x3, Fried Rice x2",101.45,3.36,14.59,Google Pay,Delivered,"7732 Maple Ln, San Diego",42
+ORD18557158,USR853192,2025-09-23 09:54:00,Burger Barn,Japanese,"Pasta x2, Sushi x3",46.8,5.66,7.54,Debit Card,Cancelled,"5631 Maple Ln, Chicago",22
+ORD80065674,USR646294,2025-12-17 12:19:00,Mexican Grill,Italian,Sushi x2,58.64,5.31,5.1,Debit Card,In Progress,"5758 Elm Blvd, Philadelphia",28
+ORD75121410,USR984998,2025-10-23 23:20:00,Taco Town,Chinese,"Salad x3, Salad x2",107.3,5.48,1.35,Cash,Picked Up,"3624 Maple Ln, Houston",42
+ORD02586201,USR123400,2025-10-15 06:23:00,Italian Bistro,Japanese,Fried Rice x3,62.29,5.74,12.38,Apple Pay,Delivered,"1684 Elm Blvd, Chicago",43
+ORD73971550,USR134465,2025-06-17 19:20:00,Sushi Spot,Mexican,"Pad Thai x3, Curry x3, Pasta x3, Salad x3, Burrito x2",64.86,3.07,4.97,Credit Card,Picked Up,"5140 Main St, San Jose",58
+ORD49775751,USR668160,2025-12-25 03:12:00,Pizza Palace,Mexican,"Fried Rice x1, Fried Rice x3, Taco x2",67.69,6.05,7.07,Google Pay,Delivered,"8598 Oak Ave, Chicago",55
+ORD36531933,USR776661,2025-05-07 08:35:00,Thai Terrace,American,"Pad Thai x3, Taco x3, Salad x2",65.38,5.79,14.02,Google Pay,In Progress,"2096 Maple Ln, Phoenix",54
+ORD39898227,USR342425,2025-10-15 22:17:00,Sushi Spot,Italian,"Burrito x1, Taco x1, Pasta x1, Taco x1, Burger x2",49.68,5.35,10.22,Debit Card,Delivered,"2687 Elm Blvd, Dallas",50
+ORD41936905,USR579918,2025-04-01 01:53:00,Chinese Wok,Chinese,"Sushi x3, Pad Thai x1, Pizza x2, Burrito x3",26.27,7.9,4.27,Google Pay,Picked Up,"8361 Elm Blvd, Chicago",37
+ORD11142177,USR571888,2025-09-21 10:05:00,Chinese Wok,Indian,Sushi x1,65.13,7.67,0.1,Cash,Cancelled,"4474 Pine Rd, San Diego",39
+ORD55232641,USR698766,2025-06-01 11:39:00,Taco Town,American,"Salad x1, Salad x3",118.83,4.86,10.53,Cash,Cancelled,"9861 Main St, Houston",53
+ORD47050555,USR135125,2025-02-16 16:28:00,Pizza Palace,Mexican,"Pasta x2, Salad x3",21.06,5.3,12.1,Google Pay,Delivered,"4269 Main St, San Antonio",33
+ORD50309909,USR047796,2025-08-04 11:57:00,Chinese Wok,Mexican,"Fried Rice x1, Pasta x1, Curry x1, Sushi x3",56.27,3.63,14.68,Credit Card,Delivered,"7685 Maple Ln, Phoenix",47
+ORD58232971,USR847802,2025-02-21 19:02:00,Mexican Grill,Thai,Taco x3,19.64,5.18,8.1,Credit Card,Cancelled,"4839 Oak Ave, Dallas",56
+ORD35633162,USR309896,2025-08-07 17:31:00,Pizza Palace,Japanese,"Pasta x2, Fried Rice x2, Sushi x2, Fried Rice x1",94.21,5.36,12.74,PayPal,Cancelled,"1044 Maple Ln, San Diego",46
+ORD95122698,USR071266,2025-02-07 06:51:00,Vegan Vibes,Indian,"Taco x2, Taco x2, Pad Thai x1, Taco x1, Burger x3",119.96,5.38,3.64,Apple Pay,Cancelled,"4021 Maple Ln, San Antonio",40
+ORD73532540,USR948934,2025-10-16 07:47:00,Sushi Spot,Italian,"Pasta x3, Burrito x3, Fried Rice x2",31.0,4.64,5.7,Debit Card,Picked Up,"5630 Pine Rd, Dallas",51
+ORD96417174,USR956008,2025-12-09 01:48:00,Pizza Palace,Mexican,"Taco x1, Sushi x1",37.97,5.27,0.91,Google Pay,Picked Up,"357 Main St, San Diego",54
+ORD50529086,USR891011,2025-09-27 08:52:00,Indian Palace,Japanese,"Burger x2, Fried Rice x2, Burrito x1, Taco x2",86.82,7.23,9.81,Google Pay,Delivered,"6740 Elm Blvd, Los Angeles",44
+ORD50014475,USR805028,2025-10-18 15:17:00,Pizza Palace,Italian,"Pasta x3, Pizza x1, Curry x1",115.95,5.93,11.28,Google Pay,Picked Up,"5003 Oak Ave, Los Angeles",56
+ORD28383719,USR759048,2025-06-24 19:49:00,Vegan Vibes,Thai,"Curry x1, Pad Thai x2, Salad x1, Curry x3",113.82,5.15,10.2,Google Pay,Picked Up,"4939 Oak Ave, Los Angeles",24
+ORD01767310,USR332114,2025-10-12 16:26:00,Burger Barn,Italian,Curry x3,24.77,5.98,4.87,Cash,Delivered,"6879 Elm Blvd, Phoenix",25
+ORD75925612,USR211227,2025-07-04 08:15:00,Mexican Grill,Thai,"Taco x2, Burger x1, Pad Thai x1, Fried Rice x2, Burrito x2",99.43,4.64,5.02,Google Pay,Cancelled,"5353 Maple Ln, Phoenix",32
+ORD41337697,USR327391,2025-10-07 05:43:00,Italian Bistro,Italian,"Taco x2, Pad Thai x3, Burger x2, Salad x1",81.5,4.2,9.88,Google Pay,Picked Up,"1311 Elm Blvd, San Antonio",58
+ORD44596573,USR856076,2025-07-01 05:41:00,Vegan Vibes,Italian,"Fried Rice x2, Fried Rice x1, Pizza x1, Pad Thai x1, Pasta x3",69.47,5.89,8.63,Cash,In Progress,"7686 Maple Ln, San Antonio",52
+ORD19429087,USR337530,2025-12-23 14:20:00,Burger Barn,Japanese,Burger x1,104.16,6.23,10.16,Debit Card,Cancelled,"2958 Maple Ln, Dallas",30
+ORD34476163,USR784402,2025-05-23 22:51:00,Burger Barn,Thai,Pasta x1,53.41,3.98,1.71,Google Pay,Picked Up,"5234 Maple Ln, Dallas",44
+ORD65386872,USR601131,2025-12-22 04:32:00,Chinese Wok,Mexican,"Sushi x3, Fried Rice x2, Sushi x2, Pasta x3, Sushi x3",32.52,4.43,2.81,Cash,Delivered,"257 Elm Blvd, Philadelphia",28
+ORD13564474,USR157202,2025-05-28 05:49:00,Mexican Grill,Thai,"Pasta x3, Burger x3, Burger x2, Pasta x2",71.91,6.77,11.4,Cash,Cancelled,"1777 Oak Ave, San Antonio",39
+ORD80280818,USR276864,2025-11-12 04:50:00,Taco Town,Chinese,"Pizza x3, Curry x3",44.51,5.68,4.85,Google Pay,In Progress,"9483 Pine Rd, Phoenix",52
+ORD96097998,USR182787,2025-12-13 12:31:00,Sushi Spot,Thai,"Fried Rice x2, Salad x1, Burger x2",69.14,4.38,14.05,PayPal,Picked Up,"5462 Maple Ln, San Diego",20
+ORD88096687,USR398432,2025-10-08 18:08:00,Vegan Vibes,Chinese,"Curry x3, Pizza x1, Burger x3, Salad x1",28.04,7.28,6.62,Credit Card,Picked Up,"2261 Pine Rd, Houston",30
+ORD88030660,USR677400,2025-04-20 15:04:00,Sushi Spot,Thai,"Pasta x3, Salad x1",15.85,4.71,1.81,Cash,Cancelled,"1260 Oak Ave, San Diego",44
+ORD08132388,USR660561,2025-06-29 23:13:00,Sushi Spot,Mexican,"Salad x1, Burger x1, Sushi x1, Burrito x3, Fried Rice x2",116.14,4.56,2.1,PayPal,Delivered,"9166 Maple Ln, Houston",58
+ORD72908826,USR136772,2025-07-17 03:15:00,Mexican Grill,Indian,"Burger x3, Pizza x2, Curry x1, Fried Rice x3, Fried Rice x2",72.37,3.85,7.07,Credit Card,Delivered,"1206 Main St, San Jose",36
+ORD29932774,USR465100,2025-04-15 04:34:00,Indian Palace,Mexican,"Burger x2, Fried Rice x3, Taco x1, Taco x1, Fried Rice x1",62.6,6.03,4.64,Google Pay,Cancelled,"307 Oak Ave, Los Angeles",20
+ORD19577117,USR287082,2025-02-02 08:45:00,Vegan Vibes,Indian,Salad x2,68.63,3.27,12.89,Debit Card,In Progress,"4279 Main St, Chicago",56
+ORD61708003,USR919087,2025-12-02 13:14:00,Indian Palace,American,"Curry x2, Burger x3, Curry x1, Pasta x3",109.7,3.89,12.07,Credit Card,Picked Up,"7720 Pine Rd, Los Angeles",39
+ORD35025364,USR547197,2025-05-06 04:00:00,Chinese Wok,Italian,"Pasta x2, Pizza x2",15.15,6.28,12.74,Google Pay,In Progress,"3461 Maple Ln, Los Angeles",35
+ORD49912028,USR484755,2025-11-23 12:04:00,Vegan Vibes,Thai,Fried Rice x3,116.24,4.17,3.91,PayPal,Picked Up,"5311 Elm Blvd, Philadelphia",37
+ORD29171143,USR137448,2025-02-16 05:51:00,Thai Terrace,Chinese,"Pizza x1, Curry x1, Burger x3, Taco x2, Fried Rice x3",20.14,4.48,12.3,Debit Card,Delivered,"7508 Maple Ln, San Antonio",55
+ORD24810891,USR836652,2025-02-08 00:04:00,Taco Town,Indian,"Sushi x1, Curry x1, Pizza x2, Pizza x1",112.03,5.16,10.87,Cash,Delivered,"7090 Oak Ave, San Antonio",42
+ORD21280622,USR450211,2025-09-27 07:40:00,Italian Bistro,Chinese,Fried Rice x3,52.71,5.71,7.27,Apple Pay,In Progress,"4530 Oak Ave, San Antonio",21
+ORD32870957,USR991628,2025-01-29 07:36:00,Chinese Wok,Japanese,"Sushi x1, Burrito x2",99.65,6.48,13.71,Credit Card,In Progress,"9334 Oak Ave, San Jose",56
+ORD98895100,USR604368,2025-06-24 22:11:00,Indian Palace,Italian,Sushi x3,88.99,3.7,1.66,Apple Pay,In Progress,"6220 Elm Blvd, Los Angeles",57
+ORD13119796,USR196972,2025-10-29 05:24:00,Thai Terrace,Indian,"Sushi x1, Pizza x3, Burrito x2",104.33,6.84,8.51,Debit Card,In Progress,"3719 Maple Ln, San Jose",26
+ORD91729180,USR768422,2025-02-04 11:16:00,Burger Barn,Indian,Pizza x2,61.01,5.09,2.5,Cash,Picked Up,"5854 Maple Ln, San Antonio",44
+ORD14866108,USR239013,2025-02-08 17:57:00,Burger Barn,Japanese,"Burrito x2, Pizza x2, Sushi x3, Fried Rice x1, Pizza x1",49.76,7.86,6.14,Apple Pay,In Progress,"4972 Oak Ave, Phoenix",26
+ORD05813426,USR610120,2025-03-01 09:50:00,Chinese Wok,Mexican,"Pad Thai x1, Pasta x2, Sushi x2, Fried Rice x2",34.59,3.21,6.6,PayPal,Cancelled,"9344 Main St, Phoenix",29
+ORD76035955,USR884584,2025-05-01 15:19:00,Burger Barn,Mexican,Pasta x3,109.55,6.99,10.16,Apple Pay,Cancelled,"7457 Oak Ave, Los Angeles",30
+ORD98149496,USR829903,2025-07-23 17:20:00,Thai Terrace,Thai,"Pizza x3, Burrito x3, Pasta x2, Burger x2",30.71,5.82,8.74,Credit Card,Delivered,"1754 Pine Rd, San Jose",54
+ORD88265414,USR664386,2025-01-26 23:30:00,Thai Terrace,Japanese,Curry x2,47.65,7.2,12.87,Google Pay,Delivered,"2301 Pine Rd, Houston",48
+ORD73760494,USR453070,2025-12-30 16:25:00,Sushi Spot,Chinese,"Burrito x1, Sushi x1, Taco x1, Taco x1, Salad x1",111.39,6.51,4.11,Cash,Picked Up,"600 Oak Ave, Los Angeles",43
+ORD44945382,USR800087,2025-04-20 07:41:00,Taco Town,Indian,"Pad Thai x3, Fried Rice x3",17.11,6.89,11.51,Credit Card,Picked Up,"2937 Maple Ln, Chicago",20
+ORD26977288,USR423565,2025-01-04 16:42:00,Indian Palace,Thai,"Burrito x2, Pad Thai x3, Burger x2, Burger x2, Pad Thai x3",49.14,4.37,9.84,Google Pay,In Progress,"2556 Maple Ln, Houston",35
+ORD88866676,USR924307,2025-10-20 06:21:00,Taco Town,Indian,"Salad x3, Curry x3, Pad Thai x1, Pasta x1, Pad Thai x1",64.43,6.69,10.88,Apple Pay,Cancelled,"1563 Oak Ave, Philadelphia",42
+ORD28483541,USR065641,2025-03-03 21:24:00,Italian Bistro,Japanese,"Pizza x1, Sushi x1, Curry x2, Burrito x2",30.04,7.3,2.71,Credit Card,Picked Up,"2997 Pine Rd, Philadelphia",60
+ORD04275177,USR144440,2025-10-01 06:46:00,Indian Palace,Italian,"Pasta x1, Pizza x3, Pizza x3",92.03,4.12,13.15,PayPal,Cancelled,"6384 Maple Ln, Los Angeles",57
+ORD30094554,USR619471,2025-07-26 00:14:00,Taco Town,Indian,"Taco x3, Pizza x3",67.99,3.61,10.67,Credit Card,Picked Up,"8861 Maple Ln, Phoenix",23
+ORD50180141,USR272604,2025-02-21 21:33:00,Thai Terrace,Thai,"Sushi x2, Burger x3, Burrito x1, Pad Thai x1, Burger x2",35.86,3.99,3.94,Apple Pay,Cancelled,"6813 Pine Rd, Philadelphia",30
+ORD04293069,USR861057,2025-02-21 08:41:00,Taco Town,Mexican,"Pad Thai x2, Pizza x1, Sushi x1",104.49,4.79,10.15,Cash,Delivered,"851 Main St, Los Angeles",28
+ORD61346808,USR149238,2025-08-04 20:56:00,Sushi Spot,Italian,"Pizza x1, Burger x2",110.68,5.4,8.53,Cash,Cancelled,"6321 Pine Rd, San Jose",59
+ORD06891914,USR023767,2025-10-23 23:36:00,Taco Town,Indian,"Pasta x3, Burrito x1, Fried Rice x3",91.3,5.4,9.96,Google Pay,Picked Up,"9247 Maple Ln, Chicago",23
+ORD09544173,USR325538,2025-02-10 14:28:00,Vegan Vibes,Mexican,Salad x2,48.19,7.89,11.18,Credit Card,Delivered,"6855 Main St, San Antonio",55
+ORD58796856,USR438883,2025-11-14 19:30:00,Indian Palace,Indian,"Burger x1, Taco x1, Curry x2, Pad Thai x3",69.81,6.5,0.69,Debit Card,Picked Up,"6804 Main St, Chicago",36
+ORD61934771,USR498574,2025-12-04 18:32:00,Sushi Spot,Mexican,Pasta x3,20.1,7.67,12.58,Cash,Cancelled,"2945 Oak Ave, San Jose",26
+ORD36853997,USR299414,2025-12-25 23:32:00,Thai Terrace,Chinese,"Curry x3, Pasta x3, Taco x1, Taco x3, Pad Thai x3",51.26,6.35,14.72,Google Pay,Cancelled,"8988 Pine Rd, Dallas",27
+ORD75597685,USR840130,2025-01-29 06:17:00,Sushi Spot,Japanese,"Sushi x1, Pad Thai x1, Pasta x1",52.66,5.25,9.24,Google Pay,Cancelled,"6471 Oak Ave, Dallas",52
+ORD77269399,USR350267,2025-08-15 07:58:00,Indian Palace,Chinese,"Pasta x3, Burrito x1, Taco x2, Salad x1, Burger x1",116.06,6.67,1.79,Credit Card,Picked Up,"9219 Pine Rd, Phoenix",28
+ORD18049095,USR768375,2025-02-07 22:20:00,Italian Bistro,American,"Pasta x1, Pasta x1",58.67,5.68,1.38,Debit Card,Cancelled,"5524 Pine Rd, Philadelphia",38
+ORD27598906,USR496696,2025-06-14 12:58:00,Burger Barn,Mexican,"Pasta x3, Pad Thai x1, Pasta x2",69.0,5.53,7.3,PayPal,Cancelled,"8519 Main St, Philadelphia",26
+ORD19500678,USR415797,2025-11-28 02:47:00,Sushi Spot,Italian,"Curry x1, Burger x1, Pizza x1, Pad Thai x3",22.4,7.1,13.66,Cash,Picked Up,"6726 Elm Blvd, San Diego",40
+ORD06566757,USR091730,2025-08-13 12:25:00,Pizza Palace,Mexican,"Pasta x1, Sushi x3",56.05,6.98,8.19,Google Pay,Cancelled,"6213 Main St, Phoenix",55
+ORD81053502,USR772981,2025-04-05 07:39:00,Thai Terrace,American,Sushi x3,98.96,7.25,12.77,Apple Pay,Picked Up,"1298 Pine Rd, Dallas",24
+ORD21593622,USR014366,2025-03-20 18:36:00,Indian Palace,Chinese,"Fried Rice x1, Pizza x2, Taco x1",89.78,6.19,4.15,PayPal,Cancelled,"7963 Elm Blvd, Philadelphia",48
+ORD33516881,USR528000,2025-09-17 20:01:00,Vegan Vibes,Thai,"Burrito x1, Pizza x3, Pad Thai x3, Pasta x2",83.66,3.73,5.89,Apple Pay,In Progress,"7713 Maple Ln, Chicago",52
+ORD03029967,USR115581,2025-09-05 11:02:00,Taco Town,Chinese,"Taco x1, Pad Thai x2, Taco x1, Taco x3",110.31,4.8,7.05,Cash,Delivered,"5409 Main St, New York",53
+ORD62755335,USR802924,2025-06-26 15:50:00,Mexican Grill,Thai,Pasta x1,61.19,4.14,7.72,PayPal,Cancelled,"3162 Oak Ave, Chicago",43
+ORD68643164,USR564215,2025-03-10 20:32:00,Pizza Palace,Thai,"Pizza x1, Pad Thai x1",69.25,5.02,14.54,Google Pay,Delivered,"1504 Oak Ave, Phoenix",48
+ORD64424157,USR651695,2025-02-05 07:24:00,Chinese Wok,American,Pizza x1,69.88,7.54,10.27,Debit Card,Delivered,"7896 Maple Ln, Chicago",58
+ORD07514168,USR876530,2025-09-29 13:14:00,Mexican Grill,Chinese,"Curry x3, Burrito x1, Fried Rice x1, Pad Thai x2",95.42,7.54,1.26,Apple Pay,Picked Up,"3196 Main St, Phoenix",20
+ORD51066331,USR628432,2025-12-15 12:48:00,Taco Town,Mexican,"Pasta x2, Sushi x2, Pasta x3, Salad x2, Pad Thai x3",51.16,6.52,11.04,Google Pay,Delivered,"7417 Oak Ave, Houston",26
+ORD24356719,USR001940,2025-04-24 11:05:00,Vegan Vibes,Italian,"Fried Rice x3, Pasta x2, Burrito x1, Sushi x3",66.91,3.04,12.76,Apple Pay,In Progress,"650 Maple Ln, Houston",52
+ORD52102019,USR733557,2025-02-05 02:35:00,Thai Terrace,Indian,"Burrito x2, Curry x2, Taco x3, Taco x2, Fried Rice x3",15.49,3.87,7.59,Apple Pay,Delivered,"4921 Pine Rd, Dallas",27
+ORD89885695,USR779445,2025-01-15 15:07:00,Thai Terrace,Italian,"Taco x3, Taco x2, Fried Rice x2, Pasta x3",16.02,7.15,3.72,Credit Card,Picked Up,"1345 Maple Ln, Philadelphia",31
+ORD43829694,USR178222,2025-11-13 11:09:00,Burger Barn,Italian,Salad x3,15.7,7.28,14.37,Cash,In Progress,"5267 Elm Blvd, San Jose",56
+ORD84992250,USR745536,2025-03-31 14:07:00,Italian Bistro,Mexican,"Pizza x1, Taco x2, Burrito x1",49.17,6.05,3.9,Apple Pay,In Progress,"4513 Elm Blvd, Houston",59
+ORD31447344,USR596878,2025-10-12 13:54:00,Chinese Wok,American,"Sushi x2, Pizza x1",59.26,3.66,13.4,Google Pay,In Progress,"5015 Pine Rd, San Diego",55
+ORD80012280,USR723583,2025-07-30 03:22:00,Vegan Vibes,American,"Burrito x3, Pasta x1, Pad Thai x2, Curry x3, Pasta x2",96.35,5.22,1.18,Apple Pay,In Progress,"2473 Oak Ave, San Diego",60
+ORD83658012,USR322624,2025-07-05 23:37:00,Italian Bistro,Mexican,"Sushi x1, Pizza x1, Taco x3, Pad Thai x3",88.57,3.39,2.5,Credit Card,Delivered,"7852 Maple Ln, Los Angeles",23
+ORD03702168,USR322618,2025-01-15 01:42:00,Indian Palace,Chinese,"Salad x2, Pasta x2, Pasta x2",29.19,7.73,8.09,Apple Pay,Picked Up,"7226 Maple Ln, San Jose",60
+ORD63358432,USR308834,2025-01-05 22:59:00,Mexican Grill,Chinese,"Pad Thai x1, Fried Rice x2, Burrito x1, Pizza x3",54.23,5.05,8.41,Cash,Cancelled,"6485 Elm Blvd, Chicago",34
+ORD24279862,USR784812,2025-11-23 14:39:00,Mexican Grill,Japanese,"Salad x1, Curry x1, Sushi x1, Pasta x1, Sushi x1",44.62,3.62,6.58,Credit Card,Cancelled,"2568 Main St, Los Angeles",51
+ORD24743600,USR712351,2025-05-09 12:53:00,Pizza Palace,Italian,"Fried Rice x2, Taco x3",119.43,3.99,11.03,Credit Card,Cancelled,"6475 Pine Rd, San Diego",40
+ORD17751423,USR069240,2025-05-22 18:07:00,Chinese Wok,Chinese,"Pizza x1, Burrito x3",64.9,5.97,5.57,Credit Card,Cancelled,"8290 Main St, Chicago",59
+ORD39703151,USR435638,2025-04-09 00:44:00,Chinese Wok,Japanese,"Pad Thai x1, Salad x3",60.94,4.46,10.46,Debit Card,Cancelled,"5796 Pine Rd, Dallas",49
+ORD28950122,USR306310,2025-07-06 19:15:00,Indian Palace,Indian,Pasta x2,34.94,6.41,11.49,Debit Card,In Progress,"6814 Pine Rd, Philadelphia",27
+ORD06091011,USR063465,2025-01-26 11:14:00,Vegan Vibes,Indian,Pizza x1,83.85,7.63,12.48,Cash,Delivered,"9242 Elm Blvd, Philadelphia",43
+ORD70657802,USR512316,2025-10-19 20:11:00,Italian Bistro,Indian,"Fried Rice x3, Burger x3, Burrito x2, Salad x3, Fried Rice x1",32.51,3.89,6.02,PayPal,Cancelled,"9929 Elm Blvd, Dallas",42
+ORD95984683,USR253573,2025-08-20 14:25:00,Pizza Palace,Indian,Pad Thai x3,16.71,3.67,13.35,Credit Card,In Progress,"3619 Pine Rd, Houston",21
+ORD79895550,USR412822,2025-06-03 02:36:00,Chinese Wok,Thai,"Burger x3, Curry x2",33.15,7.12,10.34,Apple Pay,Delivered,"5021 Main St, San Jose",56
+ORD37938491,USR778966,2025-01-28 09:33:00,Pizza Palace,Japanese,"Burrito x1, Curry x3, Taco x1, Pizza x3, Fried Rice x2",94.05,5.87,1.35,Cash,In Progress,"2525 Oak Ave, San Antonio",41
+ORD05030571,USR154616,2025-09-26 07:15:00,Burger Barn,Japanese,"Curry x3, Burrito x1, Burger x3, Fried Rice x2",53.35,3.94,5.17,Google Pay,Delivered,"2873 Pine Rd, Phoenix",59
+ORD88649261,USR707261,2025-05-28 00:21:00,Burger Barn,Japanese,"Salad x1, Curry x1, Pasta x1, Taco x3",69.94,4.28,7.25,Google Pay,Cancelled,"6270 Maple Ln, New York",53
+ORD01276060,USR328680,2025-11-29 12:14:00,Chinese Wok,Thai,Curry x2,106.01,5.65,2.8,Apple Pay,Picked Up,"452 Main St, Dallas",35
+ORD93470633,USR992023,2025-01-16 17:17:00,Taco Town,American,"Fried Rice x3, Sushi x1, Fried Rice x3",115.86,6.05,9.38,Debit Card,Picked Up,"9486 Oak Ave, Houston",47
+ORD99352158,USR837519,2025-03-16 20:59:00,Vegan Vibes,American,"Burger x3, Pasta x3, Burger x1",48.35,7.39,10.91,PayPal,Picked Up,"5070 Elm Blvd, San Antonio",60
+ORD92711762,USR522636,2025-09-02 04:32:00,Vegan Vibes,Mexican,"Sushi x2, Salad x2, Sushi x1",35.29,3.15,11.47,Credit Card,In Progress,"3746 Oak Ave, San Antonio",33
+ORD09984342,USR407336,2025-10-20 19:34:00,Italian Bistro,Indian,Pasta x1,62.42,7.13,0.64,Debit Card,Picked Up,"9237 Elm Blvd, New York",53
+ORD79148721,USR296946,2025-02-16 23:32:00,Burger Barn,American,"Pasta x1, Fried Rice x2, Curry x2, Pizza x1, Salad x3",109.14,7.47,13.24,Credit Card,In Progress,"2786 Main St, Philadelphia",25
+ORD14353759,USR337956,2025-03-18 05:55:00,Sushi Spot,American,Fried Rice x2,47.5,6.83,6.69,Google Pay,Cancelled,"2255 Oak Ave, Los Angeles",20
+ORD62485082,USR544062,2025-10-08 08:39:00,Italian Bistro,Chinese,"Pizza x1, Sushi x1",83.59,3.17,12.81,Google Pay,In Progress,"1536 Main St, Philadelphia",26
+ORD41666571,USR459023,2025-07-14 02:48:00,Chinese Wok,Chinese,"Burger x2, Salad x1, Burger x3, Pad Thai x2, Pasta x2",70.09,6.47,9.18,Credit Card,Delivered,"4805 Elm Blvd, San Diego",58
+ORD82569647,USR488221,2025-03-02 00:29:00,Burger Barn,Indian,"Burrito x2, Fried Rice x1",50.05,5.79,9.56,Credit Card,Cancelled,"4268 Main St, Phoenix",39
+ORD35713359,USR818944,2025-01-19 20:08:00,Mexican Grill,American,"Pasta x2, Salad x2, Pizza x3, Pad Thai x3",91.12,4.57,8.04,Debit Card,In Progress,"1184 Oak Ave, Philadelphia",37
+ORD83351611,USR738720,2025-05-02 11:28:00,Thai Terrace,American,"Pad Thai x1, Burger x2, Pizza x1, Burger x2, Pasta x1",98.9,7.51,2.31,PayPal,Picked Up,"5184 Pine Rd, Dallas",29
+ORD70959203,USR813088,2025-06-20 14:56:00,Pizza Palace,Italian,"Pad Thai x1, Burrito x2, Taco x2, Taco x1, Pad Thai x2",70.89,6.85,10.07,PayPal,Cancelled,"4583 Main St, Chicago",20
+ORD95155298,USR513850,2025-01-15 15:57:00,Pizza Palace,Italian,"Pizza x1, Fried Rice x2, Sushi x3, Burrito x3",81.09,6.44,6.69,PayPal,In Progress,"3346 Maple Ln, Philadelphia",25
+ORD97418944,USR674228,2025-11-12 08:58:00,Indian Palace,Mexican,"Curry x2, Salad x2",18.18,5.37,5.27,Cash,Cancelled,"5811 Maple Ln, Phoenix",56
+ORD11873675,USR446593,2025-06-24 06:52:00,Vegan Vibes,Mexican,"Burrito x2, Pasta x3, Taco x1, Burger x3",112.74,5.86,7.3,Apple Pay,Picked Up,"9194 Main St, Philadelphia",48
+ORD19018734,USR608896,2025-01-01 04:42:00,Sushi Spot,Mexican,"Pad Thai x2, Burrito x3, Salad x1, Taco x3, Curry x2",74.88,7.56,4.57,Cash,In Progress,"9647 Main St, Los Angeles",59
+ORD94123507,USR838827,2025-07-21 20:20:00,Chinese Wok,Mexican,"Fried Rice x3, Taco x3, Sushi x2, Sushi x1",73.32,7.21,5.4,Cash,Cancelled,"2156 Oak Ave, Phoenix",20
+ORD00744906,USR447641,2025-09-18 13:35:00,Mexican Grill,Mexican,"Taco x1, Fried Rice x3, Pizza x3",67.31,6.64,10.68,PayPal,Picked Up,"9542 Pine Rd, Dallas",22
+ORD95714617,USR997408,2025-02-15 07:30:00,Burger Barn,Indian,"Burrito x2, Burrito x1, Curry x3, Pizza x2, Salad x3",110.14,5.86,4.97,PayPal,In Progress,"2844 Main St, Phoenix",58
+ORD77504109,USR862058,2025-05-23 08:08:00,Vegan Vibes,Japanese,"Pad Thai x1, Burger x3, Sushi x3",92.59,6.29,5.55,Debit Card,In Progress,"8044 Oak Ave, Houston",53
+ORD83019149,USR724627,2025-06-26 01:41:00,Thai Terrace,Chinese,Pizza x1,63.72,5.37,7.14,Apple Pay,Cancelled,"6490 Elm Blvd, San Antonio",36
+ORD18094696,USR096949,2025-05-20 10:17:00,Thai Terrace,Chinese,Pad Thai x3,76.34,5.3,10.13,Debit Card,Cancelled,"5628 Oak Ave, Dallas",40
+ORD56800142,USR210096,2025-04-22 19:40:00,Burger Barn,Indian,Burger x3,28.64,6.27,13.5,Apple Pay,Cancelled,"3118 Pine Rd, Los Angeles",38
+ORD49692497,USR310733,2025-01-31 08:52:00,Thai Terrace,American,"Burger x2, Taco x3, Fried Rice x1, Salad x1",30.11,6.83,3.28,Google Pay,Delivered,"4343 Main St, San Diego",22
+ORD05248169,USR627955,2025-09-09 15:27:00,Chinese Wok,Chinese,Pasta x1,15.35,7.76,12.27,Cash,Delivered,"8870 Pine Rd, San Jose",41
+ORD64690590,USR476103,2025-04-08 09:44:00,Chinese Wok,Italian,"Salad x1, Salad x3, Taco x1",18.75,3.12,14.95,Debit Card,Picked Up,"1132 Maple Ln, San Antonio",39
+ORD49890337,USR426598,2025-10-02 04:47:00,Vegan Vibes,American,Pizza x3,29.87,6.26,7.07,Apple Pay,Delivered,"2238 Main St, Houston",31
+ORD69806808,USR156023,2025-12-14 12:20:00,Burger Barn,Indian,"Pasta x1, Curry x1, Pizza x3, Sushi x2, Burger x1",43.76,6.78,2.52,PayPal,Cancelled,"4091 Maple Ln, San Diego",22
+ORD17631800,USR975267,2025-09-01 22:08:00,Taco Town,American,"Pasta x2, Fried Rice x1, Sushi x3",87.63,5.97,10.76,Apple Pay,Delivered,"5799 Elm Blvd, Phoenix",20
+ORD51996895,USR462011,2025-08-31 15:11:00,Sushi Spot,Indian,Pizza x3,53.24,4.04,3.77,Apple Pay,Picked Up,"1810 Main St, New York",54
+ORD17418753,USR163730,2025-07-31 06:24:00,Taco Town,Italian,"Burrito x2, Pizza x2, Sushi x1, Burrito x2",33.7,4.86,6.87,Debit Card,In Progress,"3413 Pine Rd, Phoenix",28
+ORD05214472,USR217995,2025-10-11 07:05:00,Chinese Wok,Chinese,"Salad x1, Burrito x2, Salad x2, Pizza x3, Fried Rice x3",106.62,4.23,6.51,Debit Card,Cancelled,"183 Elm Blvd, San Jose",22
+ORD04705478,USR425079,2025-03-09 11:18:00,Taco Town,Indian,Pizza x2,85.25,3.8,6.89,Apple Pay,Delivered,"7698 Oak Ave, San Diego",45
+ORD18670636,USR527665,2025-04-17 21:05:00,Vegan Vibes,Japanese,Pasta x3,53.22,3.25,5.74,Cash,Delivered,"6103 Oak Ave, Philadelphia",55
+ORD75713567,USR787773,2025-05-17 16:43:00,Chinese Wok,Japanese,Burger x2,51.25,5.42,7.9,Credit Card,Picked Up,"8830 Pine Rd, Dallas",48
+ORD67989084,USR082912,2025-12-23 04:31:00,Sushi Spot,Chinese,"Pasta x3, Pizza x2",58.74,6.4,13.98,Cash,In Progress,"7372 Main St, San Antonio",38
+ORD10885356,USR746554,2025-10-18 04:57:00,Thai Terrace,American,"Taco x2, Curry x2, Pizza x1",52.08,5.27,2.5,Debit Card,In Progress,"2973 Oak Ave, Chicago",30
+ORD20312150,USR333513,2025-01-13 12:59:00,Mexican Grill,Chinese,"Salad x2, Sushi x1",116.87,5.72,7.61,Google Pay,In Progress,"4848 Maple Ln, San Diego",29
+ORD77931406,USR106233,2025-11-08 20:12:00,Vegan Vibes,Thai,"Pad Thai x1, Pizza x1",71.53,5.22,10.07,Credit Card,Picked Up,"8135 Pine Rd, Houston",58
+ORD69931833,USR239807,2025-08-16 23:26:00,Mexican Grill,Japanese,"Fried Rice x3, Fried Rice x1",102.73,5.98,2.15,PayPal,Picked Up,"5595 Main St, Dallas",57
+ORD70494577,USR113508,2025-10-27 09:31:00,Italian Bistro,Indian,"Taco x1, Pizza x1, Pad Thai x2, Salad x1",83.65,7.45,6.26,Cash,Cancelled,"2055 Pine Rd, New York",51
+ORD90755864,USR615581,2025-01-30 04:20:00,Mexican Grill,Indian,"Curry x1, Pizza x2",52.92,6.17,14.33,Credit Card,In Progress,"8777 Main St, Phoenix",52
+ORD16751338,USR726353,2025-03-15 00:08:00,Italian Bistro,Japanese,"Salad x2, Curry x1, Burger x1",31.23,4.1,2.83,Apple Pay,Delivered,"7644 Main St, San Antonio",27
+ORD89433885,USR737082,2025-12-22 04:44:00,Taco Town,Japanese,"Taco x1, Burger x2",87.54,6.91,1.17,Cash,Picked Up,"3317 Main St, New York",22

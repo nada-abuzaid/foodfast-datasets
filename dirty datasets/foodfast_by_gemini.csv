@@ -1,0 +1,201 @@
+Order_ID,User_ID,Order_Timestamp,Restaurant_Name,Items_Ordered,Subtotal_USD,Delivery_Fee_USD,Discount_USD,Total_Amount_USD,Payment_Method,Order_Status,User_Rating
+FF-10001,USR-1029,2026-05-06 20:27:00,Burger Joint,"Fries, Cheese Burger, Gourmet Burger",38,4.02,5.0,37.02,Credit Card,Delivered,
+FF-10002,USR-1060,2026-06-18 23:10:00,Burger Joint,"Cheese Burger, Onion Rings, Gourmet Burger",44,4.42,0.0,48.42,PayPal,Refunded,
+FF-10003,USR-1088,2026-05-25 12:22:00,Wok & Roll,Kung Pao Chicken,20,3.0,0.0,23.0,Cash on Delivery,Delivered,3
+FF-10004,USR-1118,2026-06-06 14:45:00,Pizza Palace,"Margherita Pizza, BBQ Chicken Pizza",39,3.85,0.0,42.85,Credit Card,Delivered,4
+FF-10005,USR-1021,2026-05-11 16:22:00,Taco Fiesta,Quesadilla,12,3.35,0.0,15.35,Apple Pay,Delivered,5
+FF-10006,USR-1019,2026-05-15 21:20:00,Sushi House,"Salmon Nigiri, Edamame, Miso Soup",48,3.91,5.0,46.91,Debit Card,Delivered,4
+FF-10007,USR-1103,2026-05-21 14:41:00,Wok & Roll,Kung Pao Chicken,22,4.82,2.2,24.62,PayPal,Delivered,5
+FF-10008,USR-1118,2026-06-07 17:57:00,Sushi House,"Salmon Nigiri, Edamame",35,3.61,3.5,35.11,PayPal,Cancelled,
+FF-10009,USR-1093,2026-05-08 13:40:00,Taco Fiesta,Churros,15,2.26,0.0,17.26,PayPal,Delivered,4
+FF-10010,USR-1098,2026-06-19 21:21:00,Pasta Prima,"Lasagna, Fettuccine Alfredo, Tiramisu",46,4.64,0.0,50.64,Apple Pay,Delivered,4
+FF-10011,USR-1001,2026-05-10 16:48:00,Wok & Roll,"Kung Pao Chicken, Pad Thai, Fried Rice",51,3.51,0.0,54.51,Cash on Delivery,Delivered,5
+FF-10012,USR-1001,2026-05-16 11:15:00,Green Garden Salad Co.,"Caesar Salad, Avocado Toast",35,4.63,0.0,39.63,Credit Card,Cancelled,
+FF-10013,USR-1022,2026-05-31 19:10:00,Pasta Prima,Tiramisu,20,2.37,2.0,20.37,Cash on Delivery,Delivered,4
+FF-10014,USR-1055,2026-05-08 14:14:00,Taco Fiesta,"Nachos Supreme, Quesadilla, Churros",46,4.69,2.0,48.69,Apple Pay,Delivered,
+FF-10015,USR-1142,2026-05-22 12:32:00,Taco Fiesta,"Beef Burrito, Chicken Taco, Quesadilla",45,2.68,0.0,47.68,Apple Pay,Delivered,3
+FF-10016,USR-1139,2026-05-07 21:27:00,Sushi House,"Edamame, Miso Soup, California Roll",55,3.21,0.0,58.21,PayPal,Delivered,5
+FF-10017,USR-1014,2026-05-16 14:12:00,Pizza Palace,Garlic Bread,19,3.01,0.0,22.01,PayPal,Cancelled,
+FF-10018,USR-1036,2026-05-29 23:55:00,The Dessert Bar,Apple Pie,15,2.74,0.0,17.74,Credit Card,Cancelled,
+FF-10019,USR-1013,2026-05-14 17:57:00,Burger Joint,Cheese Burger,10,3.21,2.0,11.21,Debit Card,Delivered,4
+FF-10020,USR-1068,2026-06-07 22:34:00,Pasta Prima,"Bruschetta, Tiramisu",21,2.88,0.0,23.88,Apple Pay,Delivered,
+FF-10021,USR-1150,2026-05-05 21:55:00,Pasta Prima,"Tiramisu, Spaghetti Bolognese, Fettuccine Alfredo",46,2.55,5.0,43.55,PayPal,Delivered,
+FF-10022,USR-1146,2026-05-21 15:13:00,Taco Fiesta,"Churros, Chicken Taco, Nachos Supreme",41,3.74,5.0,39.74,Apple Pay,Refunded,
+FF-10023,USR-1062,2026-05-01 18:39:00,Wok & Roll,"Kung Pao Chicken, Fried Rice",28,4.78,0.0,32.78,Credit Card,Cancelled,
+FF-10024,USR-1019,2026-05-11 18:53:00,Taco Fiesta,"Nachos Supreme, Beef Burrito, Quesadilla",53,2.72,0.0,55.72,Apple Pay,Cancelled,
+FF-10025,USR-1136,2026-06-17 19:09:00,Burger Joint,"Vanilla Shake, Fries, Onion Rings",41,2.78,0.0,43.78,Apple Pay,Delivered,5
+FF-10026,USR-1088,2026-05-28 15:02:00,Taco Fiesta,"Nachos Supreme, Quesadilla, Beef Burrito",65,2.14,6.5,60.64,Apple Pay,Delivered,5
+FF-10027,USR-1068,2026-05-10 19:02:00,Sushi House,"Miso Soup, Edamame, Spicy Tuna Roll",26,4.83,2.6,28.23,Cash on Delivery,Delivered,4
+FF-10028,USR-1033,2026-06-12 12:22:00,Burger Joint,"Fries, Gourmet Burger",35,2.62,0.0,37.62,PayPal,Cancelled,
+FF-10029,USR-1040,2026-06-17 16:50:00,Taco Fiesta,Beef Burrito,22,3.23,0.0,25.23,Debit Card,Delivered,5
+FF-10030,USR-1028,2026-05-23 15:52:00,The Dessert Bar,Ice Cream Sundae,11,2.59,2.0,11.59,Debit Card,Delivered,
+FF-10031,USR-1050,2026-05-26 21:53:00,The Dessert Bar,"Apple Pie, Chocolate Fudge Cake",32,3.04,5.0,30.04,Apple Pay,Cancelled,
+FF-10032,USR-1008,2026-06-16 23:20:00,Pizza Palace,"Pepperoni Pizza, BBQ Chicken Pizza",17,3.78,0.0,20.78,Cash on Delivery,Delivered,3
+FF-10033,USR-1099,2026-06-13 22:47:00,Taco Fiesta,"Chicken Taco, Quesadilla",24,4.77,5.0,23.77,Debit Card,Refunded,
+FF-10034,USR-1094,2026-06-16 15:32:00,The Dessert Bar,Apple Pie,17,2.93,0.0,19.93,PayPal,Delivered,5
+FF-10035,USR-1076,2026-06-17 13:39:00,Sushi House,Miso Soup,18,4.81,1.8,21.01,Apple Pay,Cancelled,
+FF-10036,USR-1104,2026-05-21 18:28:00,Burger Joint,"Fries, Cheese Burger",34,3.73,3.4,34.33,Debit Card,Delivered,5
+FF-10037,USR-1044,2026-06-13 15:14:00,Pizza Palace,"Soda, BBQ Chicken Pizza",30,4.85,0.0,34.85,Debit Card,Delivered,
+FF-10038,USR-1063,2026-05-25 18:25:00,Pasta Prima,"Fettuccine Alfredo, Bruschetta, Spaghetti Bolognese",57,2.57,5.7,53.87,Debit Card,Delivered,3
+FF-10039,USR-1028,2026-05-30 11:35:00,The Dessert Bar,Cheesecake Slice,20,4.86,5.0,19.86,Credit Card,Delivered,4
+FF-10040,USR-1136,2026-06-17 18:28:00,Green Garden Salad Co.,"Avocado Toast, Fruit Smoothie",43,3.63,0.0,46.63,Debit Card,Delivered,4
+FF-10041,USR-1134,2026-05-21 19:05:00,Pasta Prima,"Spaghetti Bolognese, Lasagna, Tiramisu",40,2.69,0.0,42.69,Debit Card,Delivered,5
+FF-10042,USR-1040,2026-05-27 11:13:00,Taco Fiesta,Quesadilla,14,2.98,2.0,14.98,PayPal,Delivered,5
+FF-10043,USR-1006,2026-06-04 22:47:00,The Dessert Bar,"Chocolate Fudge Cake, Apple Pie",32,3.16,2.0,33.16,Cash on Delivery,Cancelled,
+FF-10044,USR-1057,2026-05-22 21:43:00,Pasta Prima,Lasagna,14,3.45,2.0,15.45,Debit Card,Delivered,3
+FF-10045,USR-1137,2026-05-12 11:16:00,Burger Joint,"Vanilla Shake, Gourmet Burger",27,3.28,2.0,28.28,Apple Pay,Delivered,4
+FF-10046,USR-1087,2026-06-04 11:22:00,The Dessert Bar,"Ice Cream Sundae, Apple Pie",30,3.4,3.0,30.4,Credit Card,Delivered,5
+FF-10047,USR-1011,2026-05-16 13:30:00,Burger Joint,Cheese Burger,21,2.05,0.0,23.05,Credit Card,Refunded,
+FF-10048,USR-1145,2026-06-15 12:49:00,Taco Fiesta,"Nachos Supreme, Churros",27,3.81,2.7,28.11,Apple Pay,Delivered,
+FF-10049,USR-1007,2026-05-16 12:44:00,Wok & Roll,"Spring Rolls, Green Tea, Fried Rice",37,4.06,3.7,37.36,Cash on Delivery,Delivered,5
+FF-10050,USR-1011,2026-06-01 12:27:00,Green Garden Salad Co.,"Fruit Smoothie, Quinoa Bowl, Caesar Salad",47,2.03,2.0,47.03,PayPal,Delivered,4
+FF-10051,USR-1046,2026-05-16 12:17:00,Wok & Roll,"Green Tea, Spring Rolls, Kung Pao Chicken",54,3.77,0.0,57.77,Debit Card,Delivered,5
+FF-10052,USR-1098,2026-05-14 16:51:00,Green Garden Salad Co.,Fruit Smoothie,21,2.97,2.0,21.97,Apple Pay,Delivered,5
+FF-10053,USR-1071,2026-06-14 18:41:00,Burger Joint,"Cheese Burger, Gourmet Burger, Onion Rings",48,3.66,0.0,51.66,PayPal,Refunded,
+FF-10054,USR-1115,2026-05-20 21:37:00,Burger Joint,Fries,11,3.2,0.0,14.2,PayPal,Delivered,4
+FF-10055,USR-1109,2026-05-13 16:07:00,Green Garden Salad Co.,"Fruit Smoothie, Quinoa Bowl",24,2.68,2.4,24.28,Cash on Delivery,Refunded,
+FF-10056,USR-1048,2026-06-08 15:06:00,Taco Fiesta,Quesadilla,12,4.16,5.0,11.16,Apple Pay,Delivered,3
+FF-10057,USR-1078,2026-06-10 23:31:00,Burger Joint,"Vanilla Shake, Cheese Burger, Onion Rings",32,2.87,0.0,34.87,Credit Card,Delivered,4
+FF-10058,USR-1123,2026-05-26 18:04:00,Pasta Prima,"Spaghetti Bolognese, Fettuccine Alfredo",33,3.42,0.0,36.42,Credit Card,Cancelled,
+FF-10059,USR-1039,2026-06-20 20:14:00,Sushi House,"Spicy Tuna Roll, California Roll, Miso Soup",45,3.24,5.0,43.24,PayPal,Cancelled,
+FF-10060,USR-1116,2026-06-17 12:48:00,Pasta Prima,"Tiramisu, Bruschetta",29,3.85,5.0,27.85,Debit Card,Delivered,3
+FF-10061,USR-1041,2026-05-29 22:38:00,Taco Fiesta,Churros,9,2.46,2.0,9.46,Apple Pay,Delivered,
+FF-10062,USR-1074,2026-06-07 21:51:00,Wok & Roll,"Spring Rolls, Pad Thai, Fried Rice",45,4.35,4.5,44.85,PayPal,Delivered,
+FF-10063,USR-1058,2026-06-17 20:58:00,Sushi House,"Salmon Nigiri, California Roll",18,4.37,5.0,17.37,PayPal,Delivered,
+FF-10064,USR-1078,2026-06-17 16:38:00,The Dessert Bar,"Brownie, Ice Cream Sundae",24,3.78,2.0,25.78,Credit Card,Delivered,
+FF-10065,USR-1148,2026-05-12 20:27:00,Burger Joint,"Fries, Gourmet Burger, Onion Rings",49,3.32,0.0,52.32,PayPal,Refunded,
+FF-10066,USR-1024,2026-05-22 17:44:00,Pasta Prima,"Bruschetta, Lasagna",31,2.3,0.0,33.3,Apple Pay,Delivered,4
+FF-10067,USR-1141,2026-06-02 11:42:00,Burger Joint,"Gourmet Burger, Fries",25,2.34,2.0,25.34,PayPal,Cancelled,
+FF-10068,USR-1106,2026-06-10 18:48:00,Burger Joint,Vanilla Shake,13,3.86,2.0,14.86,Debit Card,Delivered,3
+FF-10069,USR-1074,2026-05-20 19:00:00,Pasta Prima,"Bruschetta, Fettuccine Alfredo, Tiramisu",55,2.71,0.0,57.71,PayPal,Cancelled,
+FF-10070,USR-1024,2026-06-01 22:18:00,Taco Fiesta,Quesadilla,9,3.93,0.0,12.93,Apple Pay,Cancelled,
+FF-10071,USR-1107,2026-06-02 22:56:00,Pasta Prima,"Spaghetti Bolognese, Bruschetta",26,3.14,5.0,24.14,Credit Card,Delivered,4
+FF-10072,USR-1088,2026-06-07 21:31:00,Wok & Roll,Fried Rice,19,2.89,5.0,16.89,PayPal,Delivered,4
+FF-10073,USR-1086,2026-06-19 17:02:00,The Dessert Bar,"Apple Pie, Cheesecake Slice",30,3.71,0.0,33.71,PayPal,Delivered,4
+FF-10074,USR-1099,2026-05-29 12:33:00,Sushi House,"California Roll, Salmon Nigiri",33,2.99,0.0,35.99,Credit Card,Delivered,4
+FF-10075,USR-1040,2026-05-22 21:54:00,Pizza Palace,"BBQ Chicken Pizza, Soda",36,3.18,0.0,39.18,PayPal,Cancelled,
+FF-10076,USR-1082,2026-06-17 12:27:00,Pasta Prima,"Fettuccine Alfredo, Tiramisu, Bruschetta",58,2.85,0.0,60.85,Credit Card,Delivered,5
+FF-10077,USR-1077,2026-05-24 17:09:00,Burger Joint,Fries,20,2.16,0.0,22.16,Cash on Delivery,Delivered,5
+FF-10078,USR-1047,2026-06-13 14:31:00,Sushi House,California Roll,17,4.6,5.0,16.6,Debit Card,Cancelled,
+FF-10079,USR-1060,2026-06-13 19:10:00,Pasta Prima,"Lasagna, Bruschetta, Spaghetti Bolognese",48,4.4,0.0,52.4,PayPal,Delivered,5
+FF-10080,USR-1077,2026-05-25 20:22:00,The Dessert Bar,"Apple Pie, Ice Cream Sundae, Cheesecake Slice",46,3.44,0.0,49.44,Apple Pay,Cancelled,
+FF-10081,USR-1076,2026-06-08 22:31:00,Burger Joint,"Onion Rings, Fries, Gourmet Burger",56,4.32,0.0,60.32,Debit Card,Delivered,4
+FF-10082,USR-1057,2026-06-20 18:02:00,Taco Fiesta,"Nachos Supreme, Beef Burrito, Churros",49,3.93,0.0,52.93,Apple Pay,Cancelled,
+FF-10083,USR-1034,2026-05-24 19:32:00,Pizza Palace,"BBQ Chicken Pizza, Garlic Bread",21,2.39,5.0,18.39,Debit Card,Delivered,4
+FF-10084,USR-1076,2026-06-13 22:43:00,Green Garden Salad Co.,Fruit Smoothie,9,2.41,0.0,11.41,Cash on Delivery,Delivered,4
+FF-10085,USR-1004,2026-06-10 16:06:00,Wok & Roll,"Pad Thai, Spring Rolls, Kung Pao Chicken",55,2.78,2.0,55.78,Debit Card,Refunded,
+FF-10086,USR-1121,2026-06-14 15:41:00,Burger Joint,"Vanilla Shake, Fries, Onion Rings",38,3.9,2.0,39.9,Credit Card,Delivered,
+FF-10087,USR-1010,2026-05-30 16:42:00,Wok & Roll,"Pad Thai, Green Tea",33,3.6,2.0,34.6,Cash on Delivery,Refunded,
+FF-10088,USR-1108,2026-05-03 22:23:00,Sushi House,"California Roll, Miso Soup",31,4.81,0.0,35.81,PayPal,Delivered,3
+FF-10089,USR-1093,2026-05-06 21:13:00,Pizza Palace,"BBQ Chicken Pizza, Soda, Margherita Pizza",37,4.89,2.0,39.89,Cash on Delivery,Refunded,
+FF-10090,USR-1006,2026-05-14 20:13:00,Burger Joint,"Cheese Burger, Vanilla Shake",37,2.61,5.0,34.61,Apple Pay,Delivered,5
+FF-10091,USR-1001,2026-05-08 21:55:00,Wok & Roll,Kung Pao Chicken,16,2.74,0.0,18.74,Debit Card,Delivered,
+FF-10092,USR-1061,2026-05-27 19:07:00,Green Garden Salad Co.,Greek Salad,12,2.15,1.2,12.95,Credit Card,Refunded,
+FF-10093,USR-1122,2026-05-03 22:50:00,Pasta Prima,"Tiramisu, Fettuccine Alfredo",31,2.65,5.0,28.65,Cash on Delivery,Refunded,
+FF-10094,USR-1078,2026-06-15 18:04:00,Pasta Prima,"Fettuccine Alfredo, Tiramisu, Spaghetti Bolognese",49,4.05,2.0,51.05,Apple Pay,Delivered,3
+FF-10095,USR-1033,2026-05-28 12:50:00,Wok & Roll,"Green Tea, Fried Rice, Kung Pao Chicken",45,3.35,5.0,43.35,Credit Card,Refunded,
+FF-10096,USR-1142,2026-05-27 22:06:00,Taco Fiesta,"Quesadilla, Beef Burrito",27,4.47,2.0,29.47,PayPal,Delivered,4
+FF-10097,USR-1096,2026-06-17 16:51:00,Sushi House,"Miso Soup, California Roll, Edamame",39,3.29,3.9,38.39,Cash on Delivery,Delivered,
+FF-10098,USR-1144,2026-05-04 15:38:00,Green Garden Salad Co.,"Caesar Salad, Fruit Smoothie, Greek Salad",59,3.26,5.9,56.36,Apple Pay,Delivered,
+FF-10099,USR-1130,2026-06-05 16:07:00,Taco Fiesta,Quesadilla,11,4.53,0.0,15.53,Cash on Delivery,Delivered,4
+FF-10100,USR-1144,2026-05-23 11:11:00,Burger Joint,"Fries, Gourmet Burger, Onion Rings",51,2.92,0.0,53.92,Cash on Delivery,Delivered,3
+FF-10101,USR-1037,2026-05-22 13:23:00,Burger Joint,Vanilla Shake,11,3.12,2.0,12.12,Apple Pay,Delivered,5
+FF-10102,USR-1022,2026-05-06 15:28:00,Burger Joint,Cheese Burger,20,3.84,2.0,21.84,PayPal,Refunded,
+FF-10103,USR-1125,2026-05-08 15:43:00,Pasta Prima,"Lasagna, Spaghetti Bolognese",36,2.33,2.0,36.33,Cash on Delivery,Refunded,
+FF-10104,USR-1125,2026-05-01 14:19:00,Wok & Roll,Kung Pao Chicken,14,4.94,0.0,18.94,Debit Card,Delivered,4
+FF-10105,USR-1084,2026-05-25 19:45:00,Pizza Palace,Garlic Bread,19,3.28,0.0,22.28,Cash on Delivery,Delivered,5
+FF-10106,USR-1091,2026-06-06 17:36:00,Pizza Palace,"Margherita Pizza, Garlic Bread",23,4.75,0.0,27.75,PayPal,Delivered,4
+FF-10107,USR-1006,2026-05-06 17:54:00,Green Garden Salad Co.,Avocado Toast,15,4.49,0.0,19.49,Debit Card,Delivered,4
+FF-10108,USR-1135,2026-06-02 21:07:00,Pizza Palace,"BBQ Chicken Pizza, Soda",24,4.33,0.0,28.33,Cash on Delivery,Cancelled,
+FF-10109,USR-1050,2026-06-08 13:48:00,Green Garden Salad Co.,"Greek Salad, Avocado Toast",19,2.76,0.0,21.76,Credit Card,Refunded,
+FF-10110,USR-1046,2026-06-10 20:20:00,Pasta Prima,"Tiramisu, Bruschetta",40,4.64,4.0,40.64,Apple Pay,Refunded,
+FF-10111,USR-1039,2026-06-07 11:22:00,Pasta Prima,Bruschetta,15,3.88,0.0,18.88,Credit Card,Cancelled,
+FF-10112,USR-1080,2026-05-06 20:38:00,Pasta Prima,"Fettuccine Alfredo, Tiramisu",34,2.85,3.4,33.45,PayPal,Cancelled,
+FF-10113,USR-1119,2026-05-04 18:06:00,Burger Joint,"Vanilla Shake, Cheese Burger",30,3.42,0.0,33.42,Credit Card,Delivered,3
+FF-10114,USR-1011,2026-05-25 17:49:00,Taco Fiesta,"Quesadilla, Churros, Nachos Supreme",43,3.08,0.0,46.08,Cash on Delivery,Delivered,
+FF-10115,USR-1086,2026-06-08 13:21:00,Pizza Palace,"Margherita Pizza, Garlic Bread",24,4.16,2.4,25.76,Cash on Delivery,Delivered,4
+FF-10116,USR-1080,2026-06-05 17:41:00,The Dessert Bar,Brownie,19,4.8,0.0,23.8,Debit Card,Delivered,5
+FF-10117,USR-1135,2026-06-19 18:12:00,Pizza Palace,"Garlic Bread, BBQ Chicken Pizza, Margherita Pizza",35,4.84,0.0,39.84,Debit Card,Delivered,4
+FF-10118,USR-1026,2026-06-19 20:51:00,Burger Joint,"Fries, Cheese Burger, Vanilla Shake",34,2.53,3.4,33.13,PayPal,Delivered,
+FF-10119,USR-1094,2026-06-04 14:19:00,Taco Fiesta,"Churros, Nachos Supreme",39,4.34,0.0,43.34,Debit Card,Delivered,5
+FF-10120,USR-1113,2026-05-09 15:03:00,Pasta Prima,"Bruschetta, Tiramisu",31,2.59,5.0,28.59,PayPal,Refunded,
+FF-10121,USR-1096,2026-05-10 17:05:00,Pizza Palace,"Soda, Margherita Pizza, Pepperoni Pizza",39,2.81,5.0,36.81,PayPal,Delivered,3
+FF-10122,USR-1107,2026-05-15 11:20:00,Burger Joint,"Vanilla Shake, Fries",25,4.97,0.0,29.97,Apple Pay,Delivered,3
+FF-10123,USR-1010,2026-05-02 15:13:00,Wok & Roll,"Kung Pao Chicken, Spring Rolls",32,2.01,0.0,34.01,Cash on Delivery,Delivered,5
+FF-10124,USR-1136,2026-05-16 17:40:00,The Dessert Bar,Apple Pie,11,2.89,0.0,13.89,PayPal,Cancelled,
+FF-10125,USR-1017,2026-05-10 15:27:00,Pizza Palace,"Soda, Margherita Pizza",34,3.72,3.4,34.32,Cash on Delivery,Delivered,5
+FF-10126,USR-1107,2026-06-05 11:24:00,Sushi House,"California Roll, Spicy Tuna Roll, Edamame",48,4.35,5.0,47.35,Credit Card,Delivered,4
+FF-10127,USR-1065,2026-06-19 20:47:00,Burger Joint,"Gourmet Burger, Fries",30,3.96,0.0,33.96,Debit Card,Delivered,
+FF-10128,USR-1140,2026-06-15 23:29:00,Green Garden Salad Co.,"Greek Salad, Fruit Smoothie, Quinoa Bowl",43,4.42,0.0,47.42,Apple Pay,Delivered,3
+FF-10129,USR-1011,2026-06-18 21:12:00,Green Garden Salad Co.,"Avocado Toast, Fruit Smoothie",37,3.41,0.0,40.41,Apple Pay,Delivered,3
+FF-10130,USR-1085,2026-05-29 17:21:00,Wok & Roll,Fried Rice,14,4.66,1.4,17.26,PayPal,Delivered,4
+FF-10131,USR-1133,2026-06-04 15:20:00,Wok & Roll,Spring Rolls,9,3.28,0.0,12.28,Credit Card,Delivered,4
+FF-10132,USR-1079,2026-06-09 17:17:00,Pasta Prima,"Bruschetta, Spaghetti Bolognese, Lasagna",43,2.12,0.0,45.12,Credit Card,Refunded,
+FF-10133,USR-1020,2026-06-20 18:02:00,The Dessert Bar,"Brownie, Cheesecake Slice",18,4.54,1.8,20.74,Credit Card,Delivered,5
+FF-10134,USR-1094,2026-05-24 18:48:00,Green Garden Salad Co.,"Avocado Toast, Caesar Salad",27,4.03,0.0,31.03,Cash on Delivery,Delivered,
+FF-10135,USR-1094,2026-06-03 17:58:00,The Dessert Bar,"Apple Pie, Cheesecake Slice",17,4.2,2.0,19.2,Credit Card,Cancelled,
+FF-10136,USR-1068,2026-05-08 13:54:00,Wok & Roll,"Spring Rolls, Kung Pao Chicken, Fried Rice",53,4.99,0.0,57.99,PayPal,Delivered,5
+FF-10137,USR-1114,2026-05-11 22:45:00,Pizza Palace,"BBQ Chicken Pizza, Soda, Garlic Bread",41,2.86,0.0,43.86,Debit Card,Refunded,
+FF-10138,USR-1093,2026-05-02 16:35:00,Taco Fiesta,Beef Burrito,20,2.41,2.0,20.41,Apple Pay,Cancelled,
+FF-10139,USR-1120,2026-06-19 17:52:00,Sushi House,"California Roll, Edamame, Salmon Nigiri",52,3.43,2.0,53.43,Credit Card,Cancelled,
+FF-10140,USR-1033,2026-06-10 20:11:00,Green Garden Salad Co.,"Caesar Salad, Fruit Smoothie, Greek Salad",47,2.38,5.0,44.38,PayPal,Delivered,3
+FF-10141,USR-1032,2026-06-03 15:54:00,Sushi House,"Salmon Nigiri, Edamame",35,4.12,0.0,39.12,Apple Pay,Delivered,5
+FF-10142,USR-1071,2026-05-11 21:39:00,Sushi House,"Spicy Tuna Roll, California Roll, Edamame",45,4.81,0.0,49.81,Cash on Delivery,Refunded,
+FF-10143,USR-1087,2026-05-17 21:13:00,Burger Joint,Gourmet Burger,8,4.84,5.0,7.84,PayPal,Cancelled,
+FF-10144,USR-1008,2026-05-26 15:29:00,Pasta Prima,"Tiramisu, Lasagna, Bruschetta",38,4.4,3.8,38.6,Credit Card,Delivered,4
+FF-10145,USR-1124,2026-05-21 22:55:00,Pasta Prima,Lasagna,17,2.42,1.7,17.72,PayPal,Delivered,
+FF-10146,USR-1095,2026-05-07 11:18:00,Pizza Palace,"Pepperoni Pizza, Garlic Bread",21,3.34,0.0,24.34,Cash on Delivery,Delivered,3
+FF-10147,USR-1084,2026-06-01 15:31:00,Green Garden Salad Co.,Greek Salad,15,4.98,2.0,17.98,Credit Card,Delivered,5
+FF-10148,USR-1118,2026-06-01 20:56:00,Taco Fiesta,Churros,13,2.14,0.0,15.14,PayPal,Refunded,
+FF-10149,USR-1074,2026-05-24 23:25:00,Burger Joint,Onion Rings,10,4.64,1.0,13.64,Credit Card,Delivered,5
+FF-10150,USR-1144,2026-05-18 20:43:00,Taco Fiesta,"Churros, Nachos Supreme",23,3.5,5.0,21.5,Credit Card,Cancelled,
+FF-10151,USR-1033,2026-06-08 19:25:00,Pizza Palace,"BBQ Chicken Pizza, Soda",29,4.25,0.0,33.25,Credit Card,Cancelled,
+FF-10152,USR-1012,2026-05-10 20:57:00,Burger Joint,Fries,20,3.41,2.0,21.41,Debit Card,Cancelled,
+FF-10153,USR-1084,2026-06-07 16:32:00,Green Garden Salad Co.,Fruit Smoothie,17,4.21,0.0,21.21,Cash on Delivery,Cancelled,
+FF-10154,USR-1126,2026-06-07 15:50:00,Wok & Roll,"Pad Thai, Fried Rice",31,2.32,2.0,31.32,Credit Card,Refunded,
+FF-10155,USR-1122,2026-06-16 20:49:00,Wok & Roll,"Green Tea, Kung Pao Chicken, Fried Rice",40,2.5,4.0,38.5,Debit Card,Delivered,3
+FF-10156,USR-1009,2026-05-27 22:13:00,Pizza Palace,Margherita Pizza,15,2.93,0.0,17.93,Cash on Delivery,Delivered,4
+FF-10157,USR-1016,2026-05-30 19:21:00,Sushi House,"Salmon Nigiri, Spicy Tuna Roll, Miso Soup",45,2.93,0.0,47.93,Apple Pay,Cancelled,
+FF-10158,USR-1068,2026-05-20 23:18:00,Pasta Prima,Spaghetti Bolognese,12,3.66,0.0,15.66,Debit Card,Refunded,
+FF-10159,USR-1126,2026-05-25 17:52:00,Green Garden Salad Co.,"Quinoa Bowl, Avocado Toast",21,3.71,5.0,19.71,Debit Card,Delivered,4
+FF-10160,USR-1021,2026-06-05 22:17:00,Green Garden Salad Co.,"Quinoa Bowl, Fruit Smoothie",22,4.47,0.0,26.47,Credit Card,Delivered,5
+FF-10161,USR-1062,2026-05-07 17:21:00,Taco Fiesta,Churros,11,3.9,0.0,14.9,PayPal,Refunded,
+FF-10162,USR-1026,2026-05-31 18:41:00,Sushi House,Edamame,22,2.46,2.2,22.26,Apple Pay,Delivered,5
+FF-10163,USR-1016,2026-05-27 13:59:00,Pizza Palace,"Soda, Pepperoni Pizza, BBQ Chicken Pizza",59,4.8,0.0,63.8,PayPal,Delivered,3
+FF-10164,USR-1075,2026-05-19 18:41:00,Burger Joint,Fries,17,3.8,0.0,20.8,Cash on Delivery,Cancelled,
+FF-10165,USR-1127,2026-06-11 15:45:00,Sushi House,"Miso Soup, Spicy Tuna Roll, California Roll",42,2.48,2.0,42.48,Credit Card,Delivered,4
+FF-10166,USR-1146,2026-05-28 19:20:00,Taco Fiesta,Churros,21,3.91,2.0,22.91,PayPal,Delivered,3
+FF-10167,USR-1036,2026-05-22 15:37:00,Pasta Prima,"Spaghetti Bolognese, Fettuccine Alfredo",26,2.7,0.0,28.7,Cash on Delivery,Refunded,
+FF-10168,USR-1003,2026-06-13 19:59:00,Wok & Roll,"Fried Rice, Kung Pao Chicken, Pad Thai",42,2.91,2.0,42.91,Apple Pay,Refunded,
+FF-10169,USR-1031,2026-06-17 20:23:00,Wok & Roll,"Green Tea, Kung Pao Chicken",21,3.42,2.0,22.42,Cash on Delivery,Delivered,5
+FF-10170,USR-1056,2026-05-08 11:53:00,Taco Fiesta,"Churros, Chicken Taco, Nachos Supreme",50,3.08,5.0,48.08,Cash on Delivery,Cancelled,
+FF-10171,USR-1052,2026-06-13 14:45:00,Sushi House,Spicy Tuna Roll,21,3.55,0.0,24.55,PayPal,Cancelled,
+FF-10172,USR-1024,2026-06-06 11:35:00,Pasta Prima,Bruschetta,10,3.53,2.0,11.53,Apple Pay,Delivered,4
+FF-10173,USR-1066,2026-05-05 18:02:00,Burger Joint,"Cheese Burger, Gourmet Burger, Onion Rings",46,2.18,0.0,48.18,PayPal,Delivered,3
+FF-10174,USR-1108,2026-06-04 13:41:00,Green Garden Salad Co.,"Fruit Smoothie, Avocado Toast",23,4.04,2.3,24.74,Credit Card,Delivered,5
+FF-10175,USR-1101,2026-06-04 17:52:00,Sushi House,"Salmon Nigiri, California Roll, Miso Soup",45,4.15,2.0,47.15,Debit Card,Delivered,3
+FF-10176,USR-1071,2026-05-16 14:04:00,Taco Fiesta,"Chicken Taco, Churros, Nachos Supreme",51,4.8,0.0,55.8,Cash on Delivery,Delivered,
+FF-10177,USR-1013,2026-05-09 19:18:00,Taco Fiesta,"Chicken Taco, Quesadilla, Beef Burrito",38,4.25,0.0,42.25,Cash on Delivery,Delivered,5
+FF-10178,USR-1083,2026-06-07 22:58:00,Taco Fiesta,"Beef Burrito, Churros",26,2.82,5.0,23.82,PayPal,Delivered,3
+FF-10179,USR-1089,2026-05-31 14:54:00,The Dessert Bar,"Apple Pie, Ice Cream Sundae, Cheesecake Slice",36,2.54,5.0,33.54,Apple Pay,Delivered,3
+FF-10180,USR-1119,2026-05-22 21:05:00,Burger Joint,"Onion Rings, Vanilla Shake, Fries",40,2.72,0.0,42.72,Apple Pay,Delivered,
+FF-10181,USR-1049,2026-06-16 21:35:00,Burger Joint,"Onion Rings, Gourmet Burger",30,2.55,5.0,27.55,PayPal,Delivered,4
+FF-10182,USR-1078,2026-05-16 22:38:00,Burger Joint,Cheese Burger,19,2.34,2.0,19.34,Debit Card,Refunded,
+FF-10183,USR-1102,2026-05-24 19:56:00,Taco Fiesta,"Nachos Supreme, Churros, Beef Burrito",49,3.07,0.0,52.07,PayPal,Delivered,
+FF-10184,USR-1121,2026-05-15 22:09:00,Green Garden Salad Co.,Quinoa Bowl,13,3.23,5.0,11.23,Apple Pay,Delivered,5
+FF-10185,USR-1149,2026-06-01 19:41:00,The Dessert Bar,"Cheesecake Slice, Brownie",24,3.13,0.0,27.13,Apple Pay,Refunded,
+FF-10186,USR-1066,2026-06-04 18:11:00,Pasta Prima,"Bruschetta, Tiramisu, Fettuccine Alfredo",52,2.5,5.2,49.3,Credit Card,Cancelled,
+FF-10187,USR-1135,2026-06-10 14:04:00,Burger Joint,Gourmet Burger,20,2.01,0.0,22.01,Debit Card,Refunded,
+FF-10188,USR-1003,2026-06-12 18:01:00,Taco Fiesta,"Quesadilla, Nachos Supreme, Chicken Taco",53,4.79,2.0,55.79,Cash on Delivery,Delivered,3
+FF-10189,USR-1005,2026-05-07 12:33:00,Wok & Roll,"Fried Rice, Pad Thai, Green Tea",58,3.28,0.0,61.28,Debit Card,Delivered,5
+FF-10190,USR-1065,2026-06-14 14:19:00,Green Garden Salad Co.,"Fruit Smoothie, Caesar Salad",27,3.37,0.0,30.37,Credit Card,Refunded,
+FF-10191,USR-1009,2026-06-14 13:05:00,Pizza Palace,"Garlic Bread, Soda",31,2.16,0.0,33.16,PayPal,Delivered,4
+FF-10192,USR-1145,2026-05-18 11:59:00,Pizza Palace,"Margherita Pizza, Pepperoni Pizza, Soda",62,4.65,2.0,64.65,Apple Pay,Delivered,5
+FF-10193,USR-1009,2026-05-26 12:19:00,Sushi House,"California Roll, Salmon Nigiri",27,4.25,2.7,28.55,Cash on Delivery,Delivered,4
+FF-10194,USR-1139,2026-05-07 17:14:00,Green Garden Salad Co.,"Greek Salad, Caesar Salad",35,4.91,0.0,39.91,Apple Pay,Delivered,5
+FF-10195,USR-1102,2026-05-15 16:35:00,Green Garden Salad Co.,Quinoa Bowl,20,4.97,2.0,22.97,PayPal,Delivered,5
+FF-10196,USR-1098,2026-06-20 21:09:00,Pizza Palace,"BBQ Chicken Pizza, Pepperoni Pizza, Soda",30,2.45,3.0,29.45,PayPal,Refunded,
+FF-10197,USR-1082,2026-05-24 23:17:00,Green Garden Salad Co.,Caesar Salad,8,4.82,2.0,10.82,Debit Card,Delivered,
+FF-10198,USR-1111,2026-06-08 23:20:00,Pasta Prima,"Tiramisu, Bruschetta, Fettuccine Alfredo",30,3.65,5.0,28.65,Credit Card,Delivered,4
+FF-10199,USR-1022,2026-06-01 13:04:00,Taco Fiesta,"Churros, Beef Burrito, Nachos Supreme",34,2.8,0.0,36.8,PayPal,Delivered,4
+FF-10200,USR-1124,2026-05-13 18:06:00,Pizza Palace,"BBQ Chicken Pizza, Pepperoni Pizza",37,3.48,5.0,35.48,Apple Pay,Delivered,

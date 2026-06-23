@@ -1,0 +1,201 @@
+order_id,customer_id,item_name,item_category,order_timestamp,quantity,unit_price,delivery_fee,total_amount,restaurant_name,payment_method,order_status,city,delivery_time_min
+FF-001,CUST-014,Cola,Drinks,2026-02-08 10:08:00,1,2.89,1.83,4.72,Coffee Corner,Card,Preparing,Jenin,17
+FF-002,CUST-026,Burger,Meals,2026-01-05 20:35:00,1,5.89,2.52,8.41,Coffee Corner,Cash,Delivered,Jenin,52
+FF-003,CUST-036,Chicken Wrap,Meals,2026-03-14 11:21:00,1,14.26,1.48,15.74,Pizza Hub,Card,Delivered,Nablus,20
+FF-004,CUST-006,Greek Salad,Salads,2026-02-15 11:51:00,1,8.06,2.03,10.09,Burger Town,Wallet,Delivered,Jenin,20
+FF-005,CUST-025,Brownie,Dessert,2026-05-28 09:23:00,3,15.36,2.86,48.94,Urban Bites,Card,Delivered,Hebron,20
+FF-006,CUST-021,Pasta,Meals,2026-05-23 16:23:00,1,8.39,2.36,10.75,Green Bowl,Cash,Delivered,Hebron,59
+FF-007,CUST-021,Cola,Drinks,2026-05-05 18:15:00,1,11.94,1.51,13.45,Burger Town,Cash,Delivered,Bethlehem,29
+FF-008,CUST-005,Cola,Drinks,2026-02-09 10:52:00,3,15.56,3.33,50.01,Green Bowl,Cash,Delivered,Nablus,28
+FF-009,CUST-059,Ice Cream,Dessert,2026-06-01 07:58:00,3,5.8,2.5,19.9,Pizza Hub,Cash,Delivered,Ramallah,50
+FF-010,CUST-047,Brownie,Dessert,2026-04-10 22:25:00,3,14.08,2.29,44.53,Pizza Hub,Card,Preparing,Jenin,20
+FF-011,CUST-055,Coffee,Drinks,2026-01-28 15:50:00,1,15.85,1.46,17.31,Coffee Corner,Card,Cancelled,Jenin,53
+FF-012,CUST-015,Cheesecake,Dessert,2026-01-03 07:43:00,3,17.55,3.58,56.23,Coffee Corner,Cash,Delivered,Nablus,33
+FF-013,CUST-034,Greek Salad,Salads,2026-05-30 19:46:00,2,9.53,3.86,22.92,Coffee Corner,Card,Preparing,Nablus,55
+FF-014,CUST-068,Chicken Wrap,Meals,2026-04-03 09:49:00,2,4.87,3.29,13.03,Urban Bites,Wallet,Delivered,Jenin,16
+FF-015,CUST-008,Pizza,Meals,2026-02-22 19:15:00,3,16.12,3.49,51.85,Pizza Hub,Wallet,Delivered,Nablus,46
+FF-016,CUST-034,Pizza,Meals,2026-04-05 03:10:00,2,4.49,2.43,11.41,Coffee Corner,Wallet,Cancelled,Ramallah,49
+FF-017,CUST-048,Coffee,Drinks,2026-04-25 23:41:00,2,13.55,2.2,29.3,Burger Town,Wallet,Cancelled,Nablus,30
+FF-018,CUST-029,Pasta,Meals,2026-02-09 14:37:00,1,7.74,2.76,10.5,Urban Bites,Card,Delivered,Ramallah,19
+FF-019,CUST-028,Burger,Meals,2026-04-25 12:31:00,3,3.6,1.71,12.51,Coffee Corner,Card,Preparing,Bethlehem,45
+FF-020,CUST-056,Pasta,Meals,2026-01-17 21:42:00,4,15.02,1.57,61.65,Green Bowl,Cash,Cancelled,Jenin,18
+FF-021,CUST-014,Cola,Drinks,2026-05-17 23:55:00,1,3.44,3.18,6.62,Pizza Hub,Card,Delivered,Bethlehem,43
+FF-022,CUST-010,Shawarma,Meals,2026-05-30 13:59:00,4,5.34,2.39,23.75,Burger Town,Wallet,Delivered,Nablus,56
+FF-023,CUST-022,Brownie,Dessert,2026-05-26 04:15:00,1,17.52,3.78,21.3,Burger Town,Cash,Cancelled,Ramallah,40
+FF-024,CUST-059,Burger,Meals,2026-02-15 14:59:00,2,8.37,3.96,20.7,Green Bowl,Cash,Preparing,Jenin,24
+FF-025,CUST-008,Pasta,Meals,2026-05-06 21:34:00,3,5.87,1.18,18.79,Green Bowl,Card,Delivered,Bethlehem,45
+FF-026,CUST-009,Brownie,Dessert,2026-05-26 15:11:00,2,3.38,2.52,9.28,Coffee Corner,Card,Delivered,Jenin,22
+FF-027,CUST-067,Ice Cream,Dessert,2026-01-15 07:26:00,2,11.47,1.12,24.06,Green Bowl,Cash,Delivered,Hebron,30
+FF-028,CUST-010,Chicken Wrap,Meals,2026-03-20 08:20:00,4,4.53,2.94,21.06,Urban Bites,Cash,Preparing,Bethlehem,21
+FF-029,CUST-009,Pizza,Meals,2026-03-01 21:56:00,2,10.34,1.4,22.08,Pizza Hub,Cash,Delivered,Ramallah,43
+FF-030,CUST-002,Brownie,Dessert,2026-04-22 22:33:00,3,11.98,3.96,39.9,Coffee Corner,Cash,Delivered,Ramallah,31
+FF-031,CUST-027,Pizza,Meals,2026-02-18 10:38:00,1,14.01,1.47,15.48,Green Bowl,Card,Delivered,Bethlehem,46
+FF-032,CUST-001,Chicken Wrap,Meals,2026-02-17 13:02:00,1,3.93,2.27,6.2,Green Bowl,Card,Delivered,Ramallah,43
+FF-033,CUST-020,Brownie,Dessert,2026-06-11 14:56:00,4,11.19,1.34,46.1,Coffee Corner,Card,Delivered,Bethlehem,50
+FF-034,CUST-006,Shawarma,Meals,2026-06-03 18:59:00,4,4.48,1.92,19.84,Green Bowl,Card,Delivered,Nablus,37
+FF-035,CUST-031,Coffee,Drinks,2026-06-08 07:59:00,4,17.59,3.25,73.61,Pizza Hub,Card,Cancelled,Nablus,26
+FF-036,CUST-032,Orange Juice,Drinks,2026-04-25 15:55:00,3,14.63,2.24,46.13,Green Bowl,Card,Delivered,Jenin,17
+FF-037,CUST-030,Cheesecake,Dessert,2026-03-02 00:19:00,2,5.59,3.76,14.94,Pizza Hub,Card,Delivered,Jenin,36
+FF-038,CUST-052,Chicken Wrap,Meals,2026-04-20 19:32:00,1,17.49,1.84,19.33,Coffee Corner,Cash,Delivered,Nablus,31
+FF-039,CUST-041,Shawarma,Meals,2026-03-01 07:46:00,3,3.09,2.79,12.06,Burger Town,Wallet,Preparing,Nablus,39
+FF-040,CUST-069,Ice Cream,Dessert,2026-01-01 14:33:00,2,6.45,3.13,16.03,Pizza Hub,Cash,Cancelled,Nablus,57
+FF-041,CUST-065,Caesar Salad,Salads,2026-06-03 22:19:00,3,12.78,1.37,39.71,Green Bowl,Wallet,Cancelled,Hebron,40
+FF-042,CUST-023,Orange Juice,Drinks,2026-04-24 19:24:00,3,11.09,1.58,34.85,Coffee Corner,Wallet,Delivered,Jenin,50
+FF-043,CUST-042,Burger,Meals,2026-04-10 07:38:00,3,6.95,2.29,23.14,Burger Town,Cash,Cancelled,Ramallah,47
+FF-044,CUST-043,Cheesecake,Dessert,2026-04-24 15:40:00,2,12.71,1.85,27.27,Urban Bites,Card,Delivered,Ramallah,27
+FF-045,CUST-010,Shawarma,Meals,2026-04-15 15:54:00,1,3.22,3.95,7.17,Burger Town,Cash,Preparing,Ramallah,60
+FF-046,CUST-001,Orange Juice,Drinks,2026-04-23 07:44:00,4,10.16,1.73,42.37,Urban Bites,Cash,Delivered,Ramallah,59
+FF-047,CUST-059,Brownie,Dessert,2026-05-26 02:07:00,4,3.28,1.75,14.87,Pizza Hub,Cash,Preparing,Bethlehem,53
+FF-048,CUST-058,Caesar Salad,Salads,2026-03-28 11:27:00,4,12.0,3.16,51.16,Pizza Hub,Wallet,Cancelled,Jenin,31
+FF-049,CUST-063,Coffee,Drinks,2026-05-14 01:33:00,2,15.52,1.83,32.87,Pizza Hub,Cash,Cancelled,Nablus,60
+FF-050,CUST-018,Chicken Wrap,Meals,2026-04-03 12:05:00,2,6.71,1.96,15.38,Pizza Hub,Card,Cancelled,Ramallah,60
+FF-051,CUST-008,Pasta,Meals,2026-03-21 20:26:00,1,8.93,1.99,10.92,Pizza Hub,Cash,Cancelled,Bethlehem,59
+FF-052,CUST-050,Burger,Meals,2026-02-21 07:48:00,4,9.89,3.83,43.39,Burger Town,Wallet,Preparing,Bethlehem,29
+FF-053,CUST-052,Cheesecake,Dessert,2026-03-08 16:21:00,2,6.73,2.46,15.92,Pizza Hub,Cash,Delivered,Bethlehem,49
+FF-054,CUST-055,Burger,Meals,2026-01-15 15:41:00,4,11.67,2.99,49.67,Pizza Hub,Cash,Delivered,Nablus,31
+FF-055,CUST-049,Greek Salad,Salads,2026-05-11 05:56:00,3,5.78,1.98,19.32,Green Bowl,Cash,Delivered,Nablus,45
+FF-056,CUST-006,Burger,Meals,2026-04-22 06:04:00,1,18.0,2.05,20.05,Urban Bites,Card,Delivered,Nablus,54
+FF-057,CUST-060,Shawarma,Meals,2026-04-07 14:13:00,2,4.46,3.01,11.93,Green Bowl,Cash,Delivered,Bethlehem,53
+FF-058,CUST-004,Orange Juice,Drinks,2026-02-23 10:06:00,1,14.56,1.49,16.05,Green Bowl,Wallet,Cancelled,Jenin,60
+FF-059,CUST-039,Pasta,Meals,2026-02-11 18:06:00,1,11.68,3.49,15.17,Coffee Corner,Card,Preparing,Nablus,37
+FF-060,CUST-002,Brownie,Dessert,2026-04-21 20:21:00,4,12.75,1.21,52.21,Burger Town,Cash,Delivered,Jenin,38
+FF-061,CUST-035,Cola,Drinks,2026-05-06 13:33:00,4,13.46,2.31,56.15,Coffee Corner,Wallet,Cancelled,Jenin,42
+FF-062,CUST-036,Orange Juice,Drinks,2026-06-09 20:05:00,3,7.5,1.74,24.24,Burger Town,Card,Cancelled,Bethlehem,54
+FF-063,CUST-063,Cola,Drinks,2026-02-25 19:11:00,4,7.71,2.48,33.32,Pizza Hub,Cash,Delivered,Hebron,32
+FF-064,CUST-031,Ice Cream,Dessert,2026-02-02 22:05:00,3,11.11,2.55,35.88,Burger Town,Cash,Preparing,Ramallah,59
+FF-065,CUST-052,Cheesecake,Dessert,2026-02-20 13:14:00,4,9.45,1.05,38.85,Pizza Hub,Cash,Preparing,Hebron,45
+FF-066,CUST-059,Brownie,Dessert,2026-02-26 18:22:00,3,9.1,3.24,30.54,Green Bowl,Cash,Delivered,Ramallah,22
+FF-067,CUST-024,Orange Juice,Drinks,2026-06-12 14:48:00,2,7.39,3.23,18.01,Pizza Hub,Card,Cancelled,Hebron,52
+FF-068,CUST-047,Coffee,Drinks,2026-02-20 21:14:00,3,17.7,3.5,56.6,Pizza Hub,Cash,Delivered,Bethlehem,23
+FF-069,CUST-063,Chicken Wrap,Meals,2026-04-30 08:08:00,1,17.6,2.66,20.26,Urban Bites,Card,Preparing,Hebron,45
+FF-070,CUST-062,Cheesecake,Dessert,2026-02-13 10:55:00,4,7.78,3.9,35.02,Urban Bites,Card,Cancelled,Jenin,19
+FF-071,CUST-011,Ice Cream,Dessert,2026-06-12 07:19:00,1,4.85,3.43,8.28,Pizza Hub,Card,Preparing,Jenin,53
+FF-072,CUST-039,Ice Cream,Dessert,2026-06-05 09:28:00,2,14.52,2.14,31.18,Coffee Corner,Cash,Delivered,Bethlehem,54
+FF-073,CUST-011,Burger,Meals,2026-02-06 08:16:00,1,17.19,1.62,18.81,Pizza Hub,Card,Delivered,Bethlehem,19
+FF-074,CUST-005,Shawarma,Meals,2026-03-22 12:18:00,1,8.83,3.07,11.9,Pizza Hub,Cash,Delivered,Jenin,19
+FF-075,CUST-026,Cola,Drinks,2026-04-18 00:37:00,2,16.82,3.36,37.0,Burger Town,Card,Preparing,Ramallah,56
+FF-076,CUST-040,Shawarma,Meals,2026-01-29 15:50:00,3,15.31,1.21,47.14,Coffee Corner,Wallet,Preparing,Hebron,43
+FF-077,CUST-065,Pizza,Meals,2026-06-11 05:17:00,4,13.17,3.1,55.78,Coffee Corner,Cash,Cancelled,Nablus,53
+FF-078,CUST-030,Burger,Meals,2026-01-05 17:05:00,4,13.89,2.81,58.37,Coffee Corner,Wallet,Delivered,Hebron,51
+FF-079,CUST-024,Burger,Meals,2026-06-06 16:17:00,2,9.79,2.95,22.53,Coffee Corner,Cash,Cancelled,Nablus,45
+FF-080,CUST-043,Caesar Salad,Salads,2026-05-27 17:10:00,4,7.67,3.01,33.69,Burger Town,Wallet,Cancelled,Hebron,57
+FF-081,CUST-052,Greek Salad,Salads,2026-02-25 12:07:00,1,9.55,1.94,11.49,Coffee Corner,Card,Preparing,Jenin,41
+FF-082,CUST-057,Burger,Meals,2026-03-27 09:40:00,2,10.54,2.87,23.95,Urban Bites,Card,Delivered,Bethlehem,23
+FF-083,CUST-031,Chicken Wrap,Meals,2026-01-06 06:40:00,4,16.15,2.45,67.05,Pizza Hub,Cash,Preparing,Nablus,50
+FF-084,CUST-016,Greek Salad,Salads,2026-01-20 16:29:00,1,5.98,3.52,9.5,Pizza Hub,Cash,Delivered,Bethlehem,60
+FF-085,CUST-019,Chicken Wrap,Meals,2026-02-11 22:29:00,4,15.44,3.94,65.7,Burger Town,Card,Preparing,Bethlehem,23
+FF-086,CUST-065,Pizza,Meals,2026-02-28 08:59:00,3,14.48,3.56,47.0,Green Bowl,Card,Delivered,Hebron,52
+FF-087,CUST-043,Ice Cream,Dessert,2026-03-24 23:22:00,4,15.91,2.34,65.98,Coffee Corner,Wallet,Cancelled,Jenin,35
+FF-088,CUST-006,Pasta,Meals,2026-05-13 16:26:00,2,11.36,1.7,24.42,Green Bowl,Wallet,Cancelled,Jenin,39
+FF-089,CUST-043,Cola,Drinks,2026-03-28 01:37:00,2,10.18,1.11,21.47,Urban Bites,Cash,Delivered,Bethlehem,44
+FF-090,CUST-061,Burger,Meals,2026-01-27 16:04:00,2,8.85,2.96,20.66,Green Bowl,Cash,Preparing,Jenin,56
+FF-091,CUST-063,Pizza,Meals,2026-03-07 04:20:00,3,15.71,3.58,50.71,Coffee Corner,Card,Preparing,Nablus,30
+FF-092,CUST-013,Cola,Drinks,2026-03-16 09:06:00,3,17.96,3.24,57.12,Burger Town,Card,Delivered,Nablus,17
+FF-093,CUST-068,Caesar Salad,Salads,2026-01-26 04:15:00,1,7.05,2.12,9.17,Burger Town,Wallet,Delivered,Ramallah,26
+FF-094,CUST-019,Pizza,Meals,2026-06-06 02:37:00,4,12.11,1.72,50.16,Pizza Hub,Cash,Delivered,Jenin,31
+FF-095,CUST-070,Cola,Drinks,2026-02-19 10:43:00,1,16.43,2.4,18.83,Pizza Hub,Card,Cancelled,Hebron,52
+FF-096,CUST-050,Chicken Wrap,Meals,2026-02-21 21:12:00,4,13.2,2.37,55.17,Burger Town,Card,Delivered,Jenin,51
+FF-097,CUST-051,Caesar Salad,Salads,2026-05-22 23:42:00,3,17.89,1.89,55.56,Green Bowl,Card,Preparing,Nablus,53
+FF-098,CUST-030,Orange Juice,Drinks,2026-05-13 17:51:00,4,15.41,3.71,65.35,Coffee Corner,Cash,Delivered,Ramallah,54
+FF-099,CUST-040,Chicken Wrap,Meals,2026-04-21 15:02:00,2,12.24,3.71,28.19,Burger Town,Card,Preparing,Hebron,23
+FF-100,CUST-070,Pizza,Meals,2026-02-04 14:08:00,3,7.56,2.25,24.93,Green Bowl,Wallet,Preparing,Hebron,25
+FF-101,CUST-015,Chicken Wrap,Meals,2026-05-29 21:21:00,4,17.49,1.89,71.85,Burger Town,Card,Delivered,Ramallah,58
+FF-102,CUST-051,Orange Juice,Drinks,2026-03-04 18:05:00,4,17.49,3.41,73.37,Urban Bites,Cash,Preparing,Nablus,44
+FF-103,CUST-014,Caesar Salad,Salads,2026-06-10 19:23:00,3,11.56,3.47,38.15,Pizza Hub,Cash,Delivered,Bethlehem,50
+FF-104,CUST-039,Caesar Salad,Salads,2026-03-21 13:58:00,2,12.54,2.91,27.99,Burger Town,Card,Delivered,Nablus,17
+FF-105,CUST-050,Chicken Wrap,Meals,2026-04-03 01:08:00,4,4.3,1.7,18.9,Burger Town,Cash,Preparing,Jenin,52
+FF-106,CUST-053,Orange Juice,Drinks,2026-05-23 14:31:00,2,16.22,2.96,35.4,Green Bowl,Card,Delivered,Ramallah,43
+FF-107,CUST-070,Cheesecake,Dessert,2026-04-28 08:23:00,2,15.76,1.3,32.82,Green Bowl,Card,Cancelled,Hebron,27
+FF-108,CUST-003,Pizza,Meals,2026-04-20 11:38:00,4,3.92,1.64,17.32,Urban Bites,Cash,Delivered,Ramallah,51
+FF-109,CUST-030,Pasta,Meals,2026-04-11 09:13:00,1,15.36,2.66,18.02,Green Bowl,Card,Preparing,Nablus,32
+FF-110,CUST-004,Shawarma,Meals,2026-01-20 02:42:00,2,10.87,3.4,25.14,Pizza Hub,Card,Delivered,Ramallah,52
+FF-111,CUST-068,Caesar Salad,Salads,2026-05-07 22:26:00,1,5.2,1.16,6.36,Urban Bites,Wallet,Delivered,Jenin,43
+FF-112,CUST-006,Coffee,Drinks,2026-03-28 07:14:00,3,10.46,1.33,32.71,Coffee Corner,Cash,Cancelled,Nablus,18
+FF-113,CUST-057,Cheesecake,Dessert,2026-05-02 21:58:00,4,9.11,1.32,37.76,Urban Bites,Card,Delivered,Bethlehem,24
+FF-114,CUST-042,Pizza,Meals,2026-04-04 22:45:00,2,6.76,2.9,16.42,Burger Town,Wallet,Preparing,Hebron,44
+FF-115,CUST-028,Brownie,Dessert,2026-05-26 21:41:00,4,4.04,3.11,19.27,Burger Town,Cash,Delivered,Jenin,36
+FF-116,CUST-033,Cheesecake,Dessert,2026-03-15 04:20:00,4,8.95,1.29,37.09,Green Bowl,Card,Cancelled,Nablus,20
+FF-117,CUST-017,Pizza,Meals,2026-03-05 22:51:00,1,9.19,3.23,12.42,Coffee Corner,Card,Preparing,Bethlehem,50
+FF-118,CUST-055,Caesar Salad,Salads,2026-06-10 22:48:00,1,8.87,3.62,12.49,Urban Bites,Cash,Preparing,Hebron,37
+FF-119,CUST-045,Pizza,Meals,2026-05-25 22:06:00,2,4.9,2.45,12.25,Coffee Corner,Cash,Delivered,Hebron,51
+FF-120,CUST-004,Pasta,Meals,2026-05-21 00:39:00,4,15.6,3.92,66.32,Coffee Corner,Wallet,Delivered,Nablus,26
+FF-121,CUST-019,Chicken Wrap,Meals,2026-02-01 07:55:00,3,16.78,2.05,52.39,Coffee Corner,Wallet,Cancelled,Nablus,24
+FF-122,CUST-059,Orange Juice,Drinks,2026-03-06 12:26:00,1,3.92,2.59,6.51,Green Bowl,Card,Delivered,Hebron,35
+FF-123,CUST-007,Coffee,Drinks,2026-05-10 02:39:00,1,16.19,1.47,17.66,Urban Bites,Cash,Cancelled,Jenin,46
+FF-124,CUST-045,Ice Cream,Dessert,2026-03-29 18:07:00,4,8.92,1.65,37.33,Burger Town,Card,Delivered,Bethlehem,46
+FF-125,CUST-001,Brownie,Dessert,2026-04-13 14:03:00,3,3.2,2.19,11.79,Pizza Hub,Cash,Delivered,Ramallah,31
+FF-126,CUST-017,Chicken Wrap,Meals,2026-03-15 19:11:00,3,4.36,2.49,15.57,Burger Town,Wallet,Delivered,Bethlehem,50
+FF-127,CUST-003,Cola,Drinks,2026-01-08 13:27:00,3,3.62,3.59,14.45,Burger Town,Card,Delivered,Bethlehem,42
+FF-128,CUST-003,Ice Cream,Dessert,2026-01-20 23:25:00,4,13.5,2.25,56.25,Green Bowl,Card,Preparing,Jenin,59
+FF-129,CUST-052,Caesar Salad,Salads,2026-03-16 16:37:00,1,9.27,1.32,10.59,Coffee Corner,Card,Cancelled,Hebron,36
+FF-130,CUST-068,Pasta,Meals,2026-04-19 09:07:00,3,14.58,1.23,44.97,Coffee Corner,Card,Delivered,Hebron,56
+FF-131,CUST-020,Shawarma,Meals,2026-01-30 22:38:00,2,4.09,1.77,9.95,Urban Bites,Card,Cancelled,Jenin,51
+FF-132,CUST-042,Coffee,Drinks,2026-04-21 01:40:00,4,13.06,3.65,55.89,Green Bowl,Card,Cancelled,Nablus,45
+FF-133,CUST-010,Cheesecake,Dessert,2026-03-02 09:32:00,3,14.84,2.77,47.29,Green Bowl,Cash,Cancelled,Nablus,18
+FF-134,CUST-065,Caesar Salad,Salads,2026-05-27 07:05:00,3,3.69,3.59,14.66,Burger Town,Cash,Preparing,Bethlehem,17
+FF-135,CUST-058,Cheesecake,Dessert,2026-01-27 01:03:00,2,7.48,2.43,17.39,Urban Bites,Cash,Delivered,Bethlehem,56
+FF-136,CUST-067,Shawarma,Meals,2026-03-17 07:33:00,1,6.34,2.31,8.65,Coffee Corner,Card,Delivered,Hebron,33
+FF-137,CUST-043,Greek Salad,Salads,2026-01-10 06:50:00,4,14.5,3.04,61.04,Urban Bites,Cash,Delivered,Bethlehem,58
+FF-138,CUST-020,Greek Salad,Salads,2026-06-14 22:58:00,3,6.41,3.55,22.78,Green Bowl,Card,Preparing,Ramallah,37
+FF-139,CUST-049,Chicken Wrap,Meals,2026-01-15 19:19:00,4,4.5,3.13,21.13,Green Bowl,Card,Preparing,Nablus,56
+FF-140,CUST-028,Cola,Drinks,2026-02-23 01:11:00,4,10.38,1.05,42.57,Green Bowl,Cash,Delivered,Ramallah,23
+FF-141,CUST-070,Shawarma,Meals,2026-03-28 23:49:00,1,7.08,3.36,10.44,Coffee Corner,Card,Delivered,Bethlehem,23
+FF-142,CUST-022,Ice Cream,Dessert,2026-04-29 13:49:00,4,4.89,1.54,21.1,Burger Town,Card,Cancelled,Hebron,58
+FF-143,CUST-058,Orange Juice,Drinks,2026-05-09 17:47:00,2,17.53,2.83,37.89,Pizza Hub,Wallet,Delivered,Hebron,45
+FF-144,CUST-037,Pasta,Meals,2026-03-17 12:29:00,3,13.01,2.71,41.74,Burger Town,Wallet,Preparing,Jenin,25
+FF-145,CUST-048,Pasta,Meals,2026-03-24 08:55:00,2,16.03,1.16,33.22,Coffee Corner,Card,Preparing,Nablus,33
+FF-146,CUST-056,Pizza,Meals,2026-01-26 11:53:00,2,6.73,3.72,17.18,Urban Bites,Card,Cancelled,Hebron,16
+FF-147,CUST-048,Greek Salad,Salads,2026-03-08 05:05:00,1,8.65,2.12,10.77,Pizza Hub,Card,Delivered,Nablus,60
+FF-148,CUST-061,Cola,Drinks,2026-02-19 07:58:00,3,14.77,1.41,45.72,Pizza Hub,Wallet,Cancelled,Jenin,54
+FF-149,CUST-068,Burger,Meals,2026-01-26 20:35:00,1,2.79,1.65,4.44,Burger Town,Card,Delivered,Ramallah,34
+FF-150,CUST-009,Pizza,Meals,2026-04-17 15:29:00,1,6.2,2.92,9.12,Urban Bites,Cash,Preparing,Bethlehem,16
+FF-151,CUST-046,Cola,Drinks,2026-01-01 14:39:00,2,13.64,1.87,29.15,Pizza Hub,Wallet,Cancelled,Ramallah,57
+FF-152,CUST-070,Cola,Drinks,2026-06-13 01:33:00,1,10.61,2.08,12.69,Coffee Corner,Wallet,Preparing,Nablus,39
+FF-153,CUST-003,Cheesecake,Dessert,2026-02-13 14:47:00,1,12.35,3.94,16.29,Green Bowl,Card,Delivered,Ramallah,57
+FF-154,CUST-006,Cola,Drinks,2026-02-27 01:08:00,1,14.46,3.21,17.67,Green Bowl,Wallet,Delivered,Ramallah,58
+FF-155,CUST-059,Cheesecake,Dessert,2026-01-12 02:45:00,4,12.29,3.43,52.59,Urban Bites,Cash,Delivered,Nablus,27
+FF-156,CUST-061,Burger,Meals,2026-05-20 11:34:00,3,16.97,2.55,53.46,Green Bowl,Card,Delivered,Hebron,37
+FF-157,CUST-048,Coffee,Drinks,2026-01-22 13:51:00,1,15.92,2.0,17.92,Burger Town,Cash,Cancelled,Jenin,36
+FF-158,CUST-035,Shawarma,Meals,2026-05-17 09:33:00,4,13.23,2.1,55.02,Urban Bites,Wallet,Cancelled,Nablus,42
+FF-159,CUST-038,Ice Cream,Dessert,2026-01-14 23:20:00,2,10.95,1.96,23.86,Green Bowl,Cash,Preparing,Jenin,25
+FF-160,CUST-046,Orange Juice,Drinks,2026-05-29 19:58:00,4,7.95,1.13,32.93,Coffee Corner,Cash,Delivered,Nablus,19
+FF-161,CUST-004,Cola,Drinks,2026-04-27 06:10:00,4,8.13,3.4,35.92,Pizza Hub,Wallet,Cancelled,Nablus,23
+FF-162,CUST-005,Pizza,Meals,2026-03-07 16:36:00,2,14.57,2.1,31.24,Coffee Corner,Card,Cancelled,Hebron,38
+FF-163,CUST-036,Cheesecake,Dessert,2026-03-10 06:20:00,1,11.4,2.59,13.99,Pizza Hub,Card,Delivered,Ramallah,46
+FF-164,CUST-058,Brownie,Dessert,2026-05-13 14:16:00,4,16.66,1.35,67.99,Pizza Hub,Wallet,Delivered,Jenin,27
+FF-165,CUST-057,Pizza,Meals,2026-06-03 16:45:00,2,15.72,2.36,33.8,Urban Bites,Wallet,Delivered,Hebron,60
+FF-166,CUST-023,Pizza,Meals,2026-05-02 19:45:00,3,16.32,3.55,52.51,Green Bowl,Wallet,Delivered,Nablus,27
+FF-167,CUST-048,Coffee,Drinks,2026-03-03 22:35:00,2,6.17,2.48,14.82,Burger Town,Wallet,Delivered,Bethlehem,20
+FF-168,CUST-053,Pizza,Meals,2026-03-24 00:33:00,3,8.67,3.15,29.16,Burger Town,Wallet,Delivered,Ramallah,35
+FF-169,CUST-024,Cola,Drinks,2026-03-01 03:08:00,1,9.47,3.04,12.51,Pizza Hub,Cash,Preparing,Nablus,22
+FF-170,CUST-029,Brownie,Dessert,2026-06-09 20:45:00,2,7.21,1.49,15.91,Green Bowl,Wallet,Delivered,Nablus,31
+FF-171,CUST-065,Pasta,Meals,2026-04-02 09:05:00,3,4.44,1.91,15.23,Pizza Hub,Wallet,Preparing,Ramallah,25
+FF-172,CUST-004,Cola,Drinks,2026-05-22 04:55:00,3,15.56,2.69,49.37,Urban Bites,Card,Preparing,Hebron,56
+FF-173,CUST-070,Pasta,Meals,2026-06-02 01:40:00,4,12.08,1.09,49.41,Green Bowl,Wallet,Delivered,Jenin,30
+FF-174,CUST-057,Coffee,Drinks,2026-01-11 13:10:00,4,7.11,1.22,29.66,Burger Town,Cash,Cancelled,Ramallah,36
+FF-175,CUST-045,Ice Cream,Dessert,2026-05-06 15:55:00,2,7.35,3.16,17.86,Burger Town,Card,Delivered,Bethlehem,50
+FF-176,CUST-019,Pizza,Meals,2026-03-19 01:15:00,3,6.25,1.37,20.12,Urban Bites,Card,Delivered,Jenin,54
+FF-177,CUST-041,Greek Salad,Salads,2026-05-20 04:20:00,2,17.42,3.71,38.55,Pizza Hub,Card,Cancelled,Bethlehem,44
+FF-178,CUST-059,Cheesecake,Dessert,2026-03-09 10:32:00,3,10.21,1.27,31.9,Pizza Hub,Card,Preparing,Hebron,18
+FF-179,CUST-061,Burger,Meals,2026-04-22 23:43:00,3,10.17,3.65,34.16,Green Bowl,Wallet,Delivered,Nablus,42
+FF-180,CUST-052,Shawarma,Meals,2026-03-04 18:02:00,3,13.78,3.29,44.63,Urban Bites,Wallet,Preparing,Ramallah,38
+FF-181,CUST-036,Brownie,Dessert,2026-05-11 18:35:00,3,3.64,2.51,13.43,Coffee Corner,Wallet,Preparing,Nablus,23
+FF-182,CUST-019,Pizza,Meals,2026-04-06 12:23:00,4,8.28,3.96,37.08,Pizza Hub,Wallet,Preparing,Jenin,47
+FF-183,CUST-067,Burger,Meals,2026-05-18 13:30:00,1,3.1,3.14,6.24,Burger Town,Card,Preparing,Bethlehem,23
+FF-184,CUST-039,Caesar Salad,Salads,2026-05-07 12:53:00,3,5.02,3.97,19.03,Coffee Corner,Cash,Preparing,Bethlehem,49
+FF-185,CUST-015,Cheesecake,Dessert,2026-02-26 20:43:00,3,9.86,1.05,30.63,Burger Town,Wallet,Delivered,Nablus,53
+FF-186,CUST-030,Cheesecake,Dessert,2026-05-13 19:37:00,3,17.49,3.35,55.82,Urban Bites,Wallet,Cancelled,Ramallah,48
+FF-187,CUST-015,Cola,Drinks,2026-01-06 17:36:00,4,4.79,3.04,22.2,Pizza Hub,Card,Cancelled,Hebron,41
+FF-188,CUST-061,Shawarma,Meals,2026-05-13 14:39:00,4,13.2,2.23,55.03,Urban Bites,Wallet,Delivered,Bethlehem,28
+FF-189,CUST-023,Brownie,Dessert,2026-03-06 15:20:00,3,17.97,2.44,56.35,Burger Town,Wallet,Delivered,Bethlehem,37
+FF-190,CUST-039,Cola,Drinks,2026-02-12 09:17:00,3,11.96,1.58,37.46,Pizza Hub,Cash,Delivered,Ramallah,59
+FF-191,CUST-036,Orange Juice,Drinks,2026-06-09 16:59:00,4,7.41,2.05,31.69,Green Bowl,Card,Preparing,Bethlehem,39
+FF-192,CUST-037,Greek Salad,Salads,2026-02-19 21:02:00,3,17.3,3.41,55.31,Urban Bites,Cash,Cancelled,Hebron,45
+FF-193,CUST-035,Pasta,Meals,2026-04-07 06:44:00,2,15.33,1.81,32.47,Pizza Hub,Card,Preparing,Bethlehem,30
+FF-194,CUST-007,Pasta,Meals,2026-04-20 05:14:00,1,12.88,2.59,15.47,Urban Bites,Cash,Delivered,Jenin,21
+FF-195,CUST-053,Cola,Drinks,2026-06-08 21:10:00,2,2.58,2.65,7.81,Burger Town,Cash,Delivered,Hebron,35
+FF-196,CUST-069,Chicken Wrap,Meals,2026-04-09 07:14:00,1,16.57,1.27,17.84,Urban Bites,Card,Cancelled,Ramallah,17
+FF-197,CUST-038,Greek Salad,Salads,2026-05-30 04:59:00,4,5.39,3.25,24.81,Urban Bites,Card,Delivered,Bethlehem,53
+FF-198,CUST-064,Pizza,Meals,2026-04-04 01:33:00,3,6.91,3.97,24.7,Pizza Hub,Wallet,Cancelled,Hebron,27
+FF-199,CUST-024,Coffee,Drinks,2026-04-21 23:16:00,1,7.63,3.19,10.82,Urban Bites,Wallet,Delivered,Hebron,51
+FF-200,CUST-055,Cola,Drinks,2026-06-03 10:25:00,2,5.22,3.57,14.01,Coffee Corner,Cash,Delivered,Jenin,57

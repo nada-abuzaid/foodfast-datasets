@@ -1,0 +1,9 @@
+OrderID,UserID,Restaurant,Item,Quantity,Price,TotalAmount,PaymentMethod,OrderTime,DeliveryTime,DeliveryStatus,DeliveryAddress
+1001,U045,SpicyBites,Pepperoni Pizza,2,12.99,25.98,Credit Card,2026-06-01 11:23,2026-06-01 11:55,Delivered,Gaza City - Al Wehda St
+1002,U078,SushiWorld,California Roll,3,8.50,25.50,PayPal,2026-06-01 12:10,2026-06-01 12:45,Delivered,Gaza City - Omar Mukhtar St
+1003,U012,BurgerHub,Cheeseburger,1,9.99,9.99,Cash,2026-06-01 13:05,2026-06-01 13:40,Delivered,Gaza City - Al Rimal St
+1004,U033,PastaPalace,Spaghetti Carbonara,2,11.50,23.00,Credit Card,2026-06-01 14:20,2026-06-01 14:55,Delivered,Gaza City - Al Nasser St
+1005,U056,GrillHouse,Chicken Shawarma,1,7.25,7.25,PayPal,2026-06-01 15:00,2026-06-01 15:35,Delivered,Gaza City - Al Jalaa St
+...
+1199,U089,SushiWorld,Salmon Nigiri,4,6.75,27.00,Credit Card,2026-06-20 18:40,2026-06-20 19:15,Delivered,Gaza City - Al Wehda St
+1200,U041,BurgerHub,Veggie Burger,2,8.50,17.00,Cash,2026-06-20 19:05,2026-06-20 19:40,Delivered,Gaza City - Al Rimal St
