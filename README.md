@@ -53,8 +53,8 @@ Format
 
 ### Technical & Math Validation Insights
 
-* **Mathematical Consistency:** 100% accurate across all of the models. The financial calculation constraint is verified perfectly:  
-  $$\text{total\_amount\_usd} = \text{item\_price\_usd} \times \text{quantity}$$
+* **Mathematical Consistency:** 100% accurate across all of the models. The financial calculation constraint is verified perfectly: `total_amount_usd` = `item_price_usd` × `quantity`
+
 * **Structural Match:** All three leading models perfectly adopted the specified multi-categorical schema (`Meals`, `Salads`, `Drinks`, `Dessert`).
 * **The Shared Logic Flaw:** A systematic LLM behavior pattern was detected during validation. For orders flagged as `Cancelled` or `Returned`, ChatGPT (**29 instances**), Claude (**28 instances**), and Gemini (**24 instances**) incorrectly generated active durations inside `delivery_duration_mins` instead of setting them to `Null`/`NaN`.
 
