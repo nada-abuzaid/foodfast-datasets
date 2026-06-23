@@ -1,0 +1,201 @@
+order_id,customer_id,item_name,item_category,order_timestamp,delivery_duration_mins,item_price_usd,quantity,total_amount_usd,payment_method,delivery_status,customer_rating,order_location
+FF-001,CUST-011,Quinoa Salad,Salads,2026-03-10 06:59:00,35,13.8,1,13.8,Cash on Delivery,Delivered,4.2,San Diego
+FF-002,CUST-047,Sushi,Meals,2025-07-25 22:19:00,86,19.92,1,19.92,Apple Pay,In-Progress,2.0,Philadelphia
+FF-003,CUST-030,Burger,Meals,2026-02-13 21:41:00,83,12.7,4,50.8,PayPal,Delivered,2.6,Los Angeles
+FF-004,CUST-020,Chocolate Cake,Dessert,2026-01-18 14:57:00,47,8.17,3,24.51,Cash on Delivery,In-Progress,3.4,Houston
+FF-005,CUST-005,Curry,Meals,2026-04-08 03:15:00,49,24.12,2,48.24,Credit Card,Delivered,4.6,San Diego
+FF-006,CUST-005,Curry,Meals,2025-08-19 02:21:00,36,9.46,2,18.92,Credit Card,Delivered,4.2,San Antonio
+FF-007,CUST-002,Tacos,Meals,2025-01-22 18:35:00,29,20.24,1,20.24,PayPal,Delivered,4.2,Phoenix
+FF-008,CUST-040,Sushi,Meals,2025-08-24 18:14:00,77,16.31,3,48.93,PayPal,Returned,3.2,San Diego
+FF-009,CUST-021,Garden Salad,Salads,2025-01-08 02:45:00,65,12.58,2,25.16,Credit Card,In-Progress,1.8,San Diego
+FF-010,CUST-029,Orange Juice,Drinks,2025-03-02 07:04:00,46,6.14,3,18.42,Cash on Delivery,Delivered,3.9,Philadelphia
+FF-011,CUST-001,Pasta,Meals,2025-02-02 10:04:00,72,18.98,3,56.94,Credit Card,In-Progress,,New York
+FF-012,CUST-048,Caesar Salad,Salads,2025-09-01 08:42:00,52,9.91,1,9.91,Credit Card,Delivered,3.5,Chicago
+FF-013,CUST-038,Coca Cola,Drinks,2026-05-13 06:34:00,44,6.76,2,13.52,Credit Card,Returned,2.8,San Antonio
+FF-014,CUST-006,Pizza,Meals,2025-05-16 23:59:00,79,9.58,4,38.32,Credit Card,Delivered,1.2,Los Angeles
+FF-015,CUST-006,Burger,Meals,2026-04-30 07:50:00,44,11.77,1,11.77,PayPal,Cancelled,4.5,San Antonio
+FF-016,CUST-006,Pasta,Meals,2026-04-30 13:12:00,25,19.76,2,39.52,Cash on Delivery,In-Progress,5.0,New York
+FF-017,CUST-009,Steak,Meals,2025-04-07 03:42:00,32,13.21,2,26.42,Credit Card,Cancelled,4.4,New York
+FF-018,CUST-015,Curry,Meals,2026-03-18 11:27:00,59,17.89,2,35.78,Apple Pay,Delivered,,Chicago
+FF-019,CUST-013,Milkshake,Drinks,2026-02-25 14:55:00,31,4.84,2,9.68,PayPal,Delivered,5.0,New York
+FF-020,CUST-009,Greek Salad,Salads,2025-02-25 21:41:00,19,10.31,2,20.62,PayPal,In-Progress,5.0,San Diego
+FF-021,CUST-021,Burger,Meals,2025-04-11 01:25:00,18,15.23,3,45.69,Credit Card,Delivered,,San Antonio
+FF-022,CUST-004,Orange Juice,Drinks,2025-12-14 03:15:00,78,6.48,1,6.48,Credit Card,Returned,3.3,San Antonio
+FF-023,CUST-009,Steak,Meals,2025-07-16 06:23:00,55,22.45,1,22.45,Cash on Delivery,Delivered,3.1,Los Angeles
+FF-024,CUST-012,Ice Cream,Dessert,2025-06-05 19:12:00,41,14.82,2,29.64,Apple Pay,Delivered,4.0,Chicago
+FF-025,CUST-018,Tiramisu,Dessert,2025-10-29 14:37:00,68,18.67,1,18.67,Credit Card,Delivered,2.9,Phoenix
+FF-026,CUST-007,Lemonade,Drinks,2025-11-19 09:50:00,22,3.25,4,13.0,Cash on Delivery,Delivered,4.8,San Diego
+FF-027,CUST-033,Fried Chicken,Meals,2026-05-28 22:05:00,37,15.91,3,47.73,Credit Card,Delivered,4.1,Houston
+FF-028,CUST-014,Cheesecake,Dessert,2025-02-18 17:29:00,64,20.34,2,40.68,PayPal,In-Progress,2.4,Philadelphia
+FF-029,CUST-025,Caesar Salad,Salads,2025-04-22 11:16:00,50,7.89,1,7.89,Credit Card,Delivered,3.7,New York
+FF-030,CUST-016,Pasta,Meals,2025-09-12 04:48:00,29,21.56,2,43.12,Apple Pay,Delivered,4.3,Los Angeles
+FF-031,CUST-019,Brownie,Dessert,2025-05-07 13:22:00,81,9.12,3,27.36,Cash on Delivery,Cancelled,1.9,San Antonio
+FF-032,CUST-022,Steak,Meals,2026-01-05 20:55:00,33,24.78,1,24.78,Credit Card,Delivered,4.5,Chicago
+FF-033,CUST-008,Garden Salad,Salads,2025-07-30 01:10:00,57,6.45,4,25.8,PayPal,In-Progress,3.0,Phoenix
+FF-034,CUST-045,Curry,Meals,2025-03-15 15:33:00,40,16.03,2,32.06,Credit Card,Delivered,3.8,San Diego
+FF-035,CUST-027,Milkshake,Drinks,2026-02-08 07:41:00,26,5.67,1,5.67,Cash on Delivery,Delivered,4.7,Houston
+FF-036,CUST-031,Pizza,Meals,2025-08-12 10:19:00,73,11.24,3,33.72,Apple Pay,Returned,2.5,Philadelphia
+FF-037,CUST-003,Chocolate Cake,Dessert,2025-12-21 23:04:00,45,21.89,2,43.78,Credit Card,Delivered,3.9,New York
+FF-038,CUST-049,Quinoa Salad,Salads,2025-06-18 16:52:00,62,11.76,1,11.76,PayPal,In-Progress,2.7,Los Angeles
+FF-039,CUST-023,Burger,Meals,2025-04-03 05:37:00,18,14.55,4,58.2,Cash on Delivery,Delivered,4.8,San Antonio
+FF-040,CUST-010,Coffee,Drinks,2026-03-25 12:28:00,52,4.12,3,12.36,Credit Card,Delivered,3.4,Chicago
+FF-041,CUST-036,Tacos,Meals,2025-09-28 18:09:00,39,18.44,2,36.88,Apple Pay,Delivered,4.0,Phoenix
+FF-042,CUST-028,Ice Cream,Dessert,2025-01-30 02:17:00,71,16.23,1,16.23,Cash on Delivery,Cancelled,2.3,San Diego
+FF-043,CUST-041,Greek Salad,Salads,2025-10-15 09:44:00,24,8.91,3,26.73,Credit Card,Delivered,4.6,Houston
+FF-044,CUST-050,Steak,Meals,2026-05-02 21:33:00,66,23.67,2,47.34,PayPal,In-Progress,2.8,Philadelphia
+FF-045,CUST-015,Pasta,Meals,2025-07-09 14:06:00,43,19.34,1,19.34,Credit Card,Delivered,3.7,New York
+FF-046,CUST-004,Orange Juice,Drinks,2025-11-11 03:59:00,35,7.82,2,15.64,Cash on Delivery,Delivered,4.2,Los Angeles
+FF-047,CUST-017,Tiramisu,Dessert,2026-04-19 11:22:00,58,12.45,4,49.8,Apple Pay,Delivered,3.1,San Antonio
+FF-048,CUST-039,Fried Chicken,Meals,2025-02-27 19:51:00,27,17.12,3,51.36,Credit Card,Delivered,4.4,Chicago
+FF-049,CUST-024,Caesar Salad,Salads,2025-08-05 07:15:00,49,10.67,1,10.67,PayPal,In-Progress,3.5,Phoenix
+FF-050,CUST-032,Brownie,Dessert,2025-05-25 22:40:00,80,11.03,2,22.06,Cash on Delivery,Returned,1.8,San Diego
+FF-051,CUST-006,Curry,Meals,2026-01-12 04:29:00,31,20.89,1,20.89,Credit Card,Delivered,4.3,Houston
+FF-052,CUST-013,Pizza,Meals,2025-10-07 16:07:00,67,13.78,3,41.34,Apple Pay,Delivered,2.9,Philadelphia
+FF-053,CUST-021,Cheesecake,Dessert,2025-03-29 10:52:00,42,19.56,2,39.12,Cash on Delivery,Delivered,3.8,New York
+FF-054,CUST-035,Lemonade,Drinks,2025-12-03 01:45:00,19,2.89,4,11.56,Credit Card,In-Progress,4.9,Los Angeles
+FF-055,CUST-042,Sushi,Meals,2026-02-19 23:18:00,54,22.34,1,22.34,PayPal,Delivered,3.2,San Antonio
+FF-056,CUST-048,Garden Salad,Salads,2025-06-14 12:33:00,63,9.45,3,28.35,Credit Card,Delivered,2.6,Chicago
+FF-057,CUST-011,Milkshake,Drinks,2025-09-19 20:21:00,37,6.23,2,12.46,Apple Pay,Delivered,4.1,Phoenix
+FF-058,CUST-029,Chocolate Cake,Dessert,2025-04-16 08:59:00,75,23.45,1,23.45,Cash on Delivery,In-Progress,2.4,San Diego
+FF-059,CUST-007,Tacos,Meals,2025-07-22 15:44:00,28,16.78,4,67.12,Credit Card,Delivered,4.5,Houston
+FF-060,CUST-044,Steak,Meals,2026-03-03 05:12:00,51,21.12,2,42.24,PayPal,Delivered,3.3,Philadelphia
+FF-061,CUST-019,Ice Cream,Dessert,2025-11-25 18:37:00,22,15.67,3,47.01,Credit Card,Delivered,4.7,New York
+FF-062,CUST-023,Quinoa Salad,Salads,2025-02-10 09:25:00,59,12.34,1,12.34,Cash on Delivery,Returned,3.0,Los Angeles
+FF-063,CUST-005,Pasta,Meals,2025-08-31 14:10:00,46,18.23,2,36.46,Apple Pay,Delivered,3.9,San Antonio
+FF-064,CUST-050,Coca Cola,Drinks,2026-04-13 03:27:00,33,4.56,4,18.24,Credit Card,Delivered,4.2,Chicago
+FF-065,CUST-016,Burger,Meals,2025-01-15 21:09:00,69,13.89,1,13.89,PayPal,In-Progress,2.7,Phoenix
+FF-066,CUST-038,Fried Chicken,Meals,2025-10-21 11:48:00,40,14.67,3,44.01,Cash on Delivery,Delivered,3.8,San Diego
+FF-067,CUST-012,Tiramisu,Dessert,2026-05-09 19:33:00,56,17.89,2,35.78,Credit Card,Delivered,3.1,Houston
+FF-068,CUST-034,Greek Salad,Salads,2025-03-08 06:51:00,25,11.23,1,11.23,Apple Pay,Delivered,4.6,Philadelphia
+FF-069,CUST-047,Curry,Meals,2025-12-28 22:16:00,82,24.56,2,49.12,Cash on Delivery,Cancelled,1.5,New York
+FF-070,CUST-009,Coffee,Drinks,2025-06-27 04:04:00,38,5.34,3,16.02,Credit Card,Delivered,4.0,Los Angeles
+FF-071,CUST-026,Pizza,Meals,2025-09-05 17:29:00,48,12.45,4,49.8,PayPal,Delivered,3.5,San Antonio
+FF-072,CUST-030,Cheesecake,Dessert,2026-01-27 10:55:00,61,18.78,1,18.78,Credit Card,In-Progress,2.8,Chicago
+FF-073,CUST-001,Orange Juice,Drinks,2025-05-13 01:42:00,20,3.67,2,7.34,Cash on Delivery,Delivered,4.8,Phoenix
+FF-074,CUST-043,Brownie,Dessert,2025-07-04 13:19:00,72,10.89,3,32.67,Apple Pay,Delivered,2.3,San Diego
+FF-075,CUST-018,Steak,Meals,2026-02-02 20:47:00,34,19.45,2,38.9,Credit Card,Delivered,4.4,Houston
+FF-076,CUST-041,Milkshake,Drinks,2025-04-29 08:36:00,45,7.12,1,7.12,PayPal,Returned,3.6,Philadelphia
+FF-077,CUST-024,Tacos,Meals,2025-11-02 15:58:00,53,17.34,4,69.36,Cash on Delivery,Delivered,3.2,New York
+FF-078,CUST-046,Caesar Salad,Salads,2025-08-18 03:21:00,29,9.78,2,19.56,Credit Card,Delivered,4.1,Los Angeles
+FF-079,CUST-013,Chocolate Cake,Dessert,2026-03-31 12:07:00,77,22.67,1,22.67,Apple Pay,In-Progress,2.1,San Antonio
+FF-080,CUST-037,Pasta,Meals,2025-02-04 19:14:00,31,20.12,3,60.36,Credit Card,Delivered,4.3,Chicago
+FF-081,CUST-022,Garden Salad,Salads,2025-10-11 07:39:00,64,8.45,1,8.45,Cash on Delivery,Delivered,2.9,Phoenix
+FF-082,CUST-008,Lemonade,Drinks,2026-04-26 16:22:00,23,4.78,2,9.56,PayPal,Delivered,4.7,San Diego
+FF-083,CUST-035,Sushi,Meals,2025-06-09 22:51:00,50,21.78,4,87.12,Credit Card,Delivered,3.4,Houston
+FF-084,CUST-019,Ice Cream,Dessert,2025-12-17 05:28:00,36,13.45,3,40.35,Apple Pay,In-Progress,4.0,Philadelphia
+FF-085,CUST-044,Fried Chicken,Meals,2025-01-19 14:03:00,79,16.23,2,32.46,Cash on Delivery,Cancelled,1.7,New York
+FF-086,CUST-028,Curry,Meals,2025-09-14 09:17:00,44,23.89,1,23.89,Credit Card,Delivered,3.8,Los Angeles
+FF-087,CUST-003,Tiramisu,Dessert,2026-05-19 18:44:00,27,16.78,4,67.12,PayPal,Delivered,4.5,San Antonio
+FF-088,CUST-049,Quinoa Salad,Salads,2025-03-21 02:35:00,55,10.56,2,21.12,Credit Card,Delivered,3.0,Chicago
+FF-089,CUST-015,Burger,Meals,2025-07-17 11:09:00,41,14.12,3,42.36,Cash on Delivery,Delivered,3.9,Phoenix
+FF-090,CUST-032,Coca Cola,Drinks,2025-11-08 20:16:00,68,5.89,1,5.89,Apple Pay,Returned,2.5,San Diego
+FF-091,CUST-010,Pizza,Meals,2026-02-15 06:48:00,32,11.67,2,23.34,Credit Card,Delivered,4.2,Houston
+FF-092,CUST-036,Cheesecake,Dessert,2025-04-08 23:57:00,60,20.45,1,20.45,PayPal,In-Progress,2.8,Philadelphia
+FF-093,CUST-047,Orange Juice,Drinks,2025-08-26 04:13:00,24,6.78,3,20.34,Cash on Delivery,Delivered,4.6,New York
+FF-094,CUST-021,Steak,Meals,2025-05-30 17:32:00,52,22.89,4,91.56,Credit Card,Delivered,3.3,Los Angeles
+FF-095,CUST-042,Milkshake,Drinks,2026-01-09 10:41:00,38,4.23,2,8.46,Apple Pay,Delivered,4.0,San Antonio
+FF-096,CUST-004,Tacos,Meals,2025-10-04 01:25:00,70,19.12,1,19.12,Cash on Delivery,Cancelled,2.2,Chicago
+FF-097,CUST-025,Greek Salad,Salads,2025-02-23 13:50:00,46,12.34,3,37.02,Credit Card,Delivered,3.7,Phoenix
+FF-098,CUST-039,Pasta,Meals,2025-09-23 21:06:00,33,17.89,2,35.78,PayPal,Delivered,4.1,San Diego
+FF-099,CUST-014,Brownie,Dessert,2026-03-07 07:19:00,57,9.67,4,38.68,Credit Card,In-Progress,3.0,Houston
+FF-100,CUST-031,Caesar Salad,Salads,2025-06-22 15:44:00,29,11.45,1,11.45,Cash on Delivery,Delivered,4.4,Philadelphia
+FF-101,CUST-006,Fried Chicken,Meals,2025-12-10 18:58:00,65,15.78,3,47.34,Apple Pay,Delivered,2.6,New York
+FF-102,CUST-048,Chocolate Cake,Dessert,2025-07-11 09:37:00,43,21.23,2,42.46,Credit Card,Delivered,3.8,Los Angeles
+FF-103,CUST-017,Lemonade,Drinks,2026-04-05 20:12:00,21,3.45,1,3.45,PayPal,Delivered,4.9,San Antonio
+FF-104,CUST-043,Sushi,Meals,2025-03-26 06:29:00,74,18.56,4,74.24,Cash on Delivery,In-Progress,2.4,Chicago
+FF-105,CUST-029,Ice Cream,Dessert,2025-11-14 14:51:00,39,14.89,2,29.78,Credit Card,Delivered,4.0,Phoenix
+FF-106,CUST-022,Curry,Meals,2025-01-28 03:08:00,48,24.12,1,24.12,Apple Pay,Returned,3.5,San Diego
+FF-107,CUST-035,Pizza,Meals,2025-08-03 12:25:00,62,10.78,3,32.34,Cash on Delivery,Delivered,2.9,Houston
+FF-108,CUST-011,Tiramisu,Dessert,2026-02-26 19:40:00,30,17.45,1,17.45,Credit Card,Delivered,4.3,Philadelphia
+FF-109,CUST-040,Garden Salad,Salads,2025-05-19 07:53:00,54,7.23,4,28.92,PayPal,In-Progress,3.2,New York
+FF-110,CUST-027,Burger,Meals,2025-10-18 16:34:00,35,13.56,2,27.12,Credit Card,Delivered,4.1,Los Angeles
+FF-111,CUST-033,Coffee,Drinks,2025-04-12 22:19:00,77,5.67,3,17.01,Cash on Delivery,Cancelled,1.9,San Antonio
+FF-112,CUST-019,Steak,Meals,2026-05-05 05:07:00,28,23.45,1,23.45,Apple Pay,Delivered,4.6,Chicago
+FF-113,CUST-045,Quinoa Salad,Salads,2025-07-26 13:42:00,51,13.12,2,26.24,Credit Card,Delivered,3.4,Phoenix
+FF-114,CUST-008,Milkshake,Drinks,2025-02-14 20:55:00,44,6.89,4,27.56,PayPal,Delivered,3.7,San Diego
+FF-115,CUST-024,Cheesecake,Dessert,2025-09-17 09:28:00,26,19.78,3,59.34,Cash on Delivery,Delivered,4.5,Houston
+FF-116,CUST-046,Tacos,Meals,2026-01-21 18:11:00,59,18.34,1,18.34,Credit Card,In-Progress,2.8,Philadelphia
+FF-117,CUST-012,Pasta,Meals,2025-06-02 04:46:00,37,21.67,2,43.34,Apple Pay,Delivered,4.0,New York
+FF-118,CUST-038,Coca Cola,Drinks,2025-12-05 11:33:00,63,3.78,1,3.78,Cash on Delivery,Returned,2.5,Los Angeles
+FF-119,CUST-030,Fried Chicken,Meals,2025-03-04 17:20:00,42,16.45,4,65.8,Credit Card,Delivered,3.9,San Antonio
+FF-120,CUST-001,Chocolate Cake,Dessert,2025-10-26 02:09:00,71,22.12,2,44.24,PayPal,Delivered,2.3,Chicago
+FF-121,CUST-049,Ice Cream,Dessert,2026-04-15 14:37:00,34,15.34,3,46.02,Credit Card,Delivered,4.2,Phoenix
+FF-122,CUST-015,Caesar Salad,Salads,2025-05-22 21:52:00,50,10.89,1,10.89,Cash on Delivery,In-Progress,3.6,San Diego
+FF-123,CUST-042,Burger,Meals,2025-11-27 06:14:00,23,14.78,2,29.56,Apple Pay,Delivered,4.7,Houston
+FF-124,CUST-020,Lemonade,Drinks,2026-02-10 15:29:00,55,4.12,4,16.48,Credit Card,Delivered,3.1,Philadelphia
+FF-125,CUST-036,Sushi,Meals,2025-08-15 08:47:00,66,20.56,1,20.56,PayPal,Cancelled,2.7,New York
+FF-126,CUST-007,Greek Salad,Salads,2025-04-25 23:03:00,31,9.34,3,28.02,Cash on Delivery,Delivered,4.4,Los Angeles
+FF-127,CUST-044,Curry,Meals,2025-07-20 10:22:00,47,19.89,2,39.78,Credit Card,Delivered,3.5,San Antonio
+FF-128,CUST-028,Pizza,Meals,2026-03-12 19:18:00,39,12.34,4,49.36,Apple Pay,Delivered,4.0,Chicago
+FF-129,CUST-023,Tiramisu,Dessert,2025-01-06 05:55:00,58,18.67,1,18.67,Cash on Delivery,In-Progress,2.9,Phoenix
+FF-130,CUST-041,Orange Juice,Drinks,2025-09-30 12:41:00,25,5.45,2,10.9,Credit Card,Delivered,4.8,San Diego
+FF-131,CUST-017,Steak,Meals,2025-06-11 01:27:00,73,21.78,3,65.34,PayPal,Delivered,2.4,Houston
+FF-132,CUST-033,Brownie,Dessert,2026-05-17 14:03:00,40,11.23,1,11.23,Cash on Delivery,Returned,3.7,Philadelphia
+FF-133,CUST-010,Milkshake,Drinks,2025-02-28 20:39:00,52,6.78,4,27.12,Credit Card,Delivered,3.2,New York
+FF-134,CUST-047,Pasta,Meals,2025-10-13 07:16:00,29,17.45,2,34.9,Apple Pay,Delivered,4.3,Los Angeles
+FF-135,CUST-031,Chocolate Cake,Dessert,2025-12-22 16:52:00,64,20.89,3,62.67,Cash on Delivery,In-Progress,2.6,San Antonio
+FF-136,CUST-005,Fried Chicken,Meals,2026-01-14 09:35:00,45,15.12,1,15.12,Credit Card,Delivered,3.8,Chicago
+FF-137,CUST-039,Coffee,Drinks,2025-07-06 18:24:00,22,3.89,2,7.78,PayPal,Delivered,4.9,Phoenix
+FF-138,CUST-026,Tacos,Meals,2025-03-19 04:11:00,68,16.78,4,67.12,Cash on Delivery,Delivered,2.8,San Diego
+FF-139,CUST-014,Quinoa Salad,Salads,2025-11-20 13:46:00,37,12.67,1,12.67,Credit Card,Delivered,4.1,Houston
+FF-140,CUST-043,Ice Cream,Dessert,2026-04-02 21:59:00,49,14.45,3,43.35,Apple Pay,In-Progress,3.4,Philadelphia
+FF-141,CUST-018,Caesar Salad,Salads,2025-05-03 10:08:00,33,8.23,2,16.46,Cash on Delivery,Delivered,4.0,New York
+FF-142,CUST-035,Burger,Meals,2025-08-21 19:32:00,60,13.89,1,13.89,Credit Card,Cancelled,2.9,Los Angeles
+FF-143,CUST-011,Pizza,Meals,2026-02-21 05:41:00,41,11.45,4,45.8,PayPal,Delivered,3.7,San Antonio
+FF-144,CUST-050,Cheesecake,Dessert,2025-09-07 12:17:00,27,19.12,2,38.24,Cash on Delivery,Delivered,4.4,Chicago
+FF-145,CUST-024,Lemonade,Drinks,2025-04-01 01:54:00,55,2.78,3,8.34,Credit Card,Delivered,3.1,Phoenix
+FF-146,CUST-029,Sushi,Meals,2025-10-29 15:10:00,74,23.45,1,23.45,Apple Pay,Returned,2.0,San Diego
+FF-147,CUST-003,Garden Salad,Salads,2026-03-18 08:25:00,36,7.89,4,31.56,Cash on Delivery,Delivered,4.2,Houston
+FF-148,CUST-045,Curry,Meals,2025-06-29 17:48:00,50,22.34,2,44.68,Credit Card,Delivered,3.5,Philadelphia
+FF-149,CUST-020,Tiramisu,Dessert,2025-01-11 22:33:00,62,17.67,1,17.67,PayPal,In-Progress,2.7,New York
+FF-150,CUST-032,Fried Chicken,Meals,2025-12-15 06:59:00,31,14.56,3,43.68,Cash on Delivery,Delivered,4.5,Los Angeles
+FF-151,CUST-008,Milkshake,Drinks,2025-07-15 14:22:00,43,5.12,2,10.24,Credit Card,Delivered,3.8,San Antonio
+FF-152,CUST-037,Steak,Meals,2026-05-11 20:07:00,69,20.78,1,20.78,Apple Pay,Delivered,2.5,Chicago
+FF-153,CUST-016,Pasta,Meals,2025-02-16 09:41:00,24,18.89,4,75.56,Cash on Delivery,Delivered,4.6,Phoenix
+FF-154,CUST-041,Brownie,Dessert,2025-09-25 18:55:00,52,10.45,2,20.9,Credit Card,In-Progress,3.3,San Diego
+FF-155,CUST-027,Orange Juice,Drinks,2025-03-13 03:19:00,38,7.34,3,22.02,PayPal,Delivered,4.0,Houston
+FF-156,CUST-013,Tacos,Meals,2025-11-05 11:28:00,57,17.12,1,17.12,Cash on Delivery,Returned,2.8,Philadelphia
+FF-157,CUST-048,Chocolate Cake,Dessert,2026-01-30 19:12:00,45,21.89,4,87.56,Credit Card,Delivered,3.6,New York
+FF-158,CUST-006,Caesar Salad,Salads,2025-08-08 07:34:00,29,9.67,2,19.34,Apple Pay,Delivered,4.3,Los Angeles
+FF-159,CUST-022,Ice Cream,Dessert,2025-04-19 16:07:00,71,16.23,1,16.23,Cash on Delivery,Cancelled,2.1,San Antonio
+FF-160,CUST-035,Pizza,Meals,2025-10-23 22:44:00,40,12.78,3,38.34,Credit Card,Delivered,3.9,Chicago
+FF-161,CUST-019,Curry,Meals,2026-03-24 05:29:00,63,23.45,2,46.9,PayPal,Delivered,2.9,Phoenix
+FF-162,CUST-044,Quinoa Salad,Salads,2025-06-16 13:52:00,34,11.12,4,44.48,Cash on Delivery,Delivered,4.1,San Diego
+FF-163,CUST-010,Greek Salad,Salads,2025-12-29 01:17:00,48,8.89,1,8.89,Credit Card,In-Progress,3.4,Houston
+FF-164,CUST-029,Fried Chicken,Meals,2025-01-23 20:38:00,26,15.67,2,31.34,Apple Pay,Delivered,4.7,Philadelphia
+FF-165,CUST-001,Cheesecake,Dessert,2025-09-11 09:05:00,59,19.34,3,58.02,Cash on Delivery,Delivered,3.0,New York
+FF-166,CUST-046,Lemonade,Drinks,2026-04-28 18:21:00,37,4.56,1,4.56,Credit Card,Delivered,4.0,Los Angeles
+FF-167,CUST-025,Burger,Meals,2025-05-28 04:50:00,75,14.23,4,56.92,PayPal,Returned,2.3,San Antonio
+FF-168,CUST-042,Sushi,Meals,2025-07-29 12:13:00,42,22.67,2,45.34,Cash on Delivery,Delivered,3.7,Chicago
+FF-169,CUST-014,Coffee,Drinks,2025-02-07 21:46:00,30,5.78,3,17.34,Credit Card,Delivered,4.4,Phoenix
+FF-170,CUST-038,Tiramisu,Dessert,2026-02-04 06:32:00,65,18.12,1,18.12,Apple Pay,In-Progress,2.6,San Diego
+FF-171,CUST-031,Steak,Meals,2025-10-09 15:19:00,51,24.56,2,49.12,Cash on Delivery,Delivered,3.2,Houston
+FF-172,CUST-003,Pasta,Meals,2025-03-30 02:58:00,33,19.78,4,79.12,Credit Card,Delivered,4.1,Philadelphia
+FF-173,CUST-047,Milkshake,Drinks,2025-11-23 10:44:00,54,6.45,1,6.45,PayPal,Delivered,3.5,New York
+FF-174,CUST-020,Caesar Salad,Salads,2026-05-24 19:07:00,39,10.23,3,30.69,Cash on Delivery,Delivered,3.8,Los Angeles
+FF-175,CUST-036,Chocolate Cake,Dessert,2025-06-20 08:29:00,68,23.12,2,46.24,Credit Card,Cancelled,2.4,San Antonio
+FF-176,CUST-009,Tacos,Meals,2025-01-02 17:36:00,44,18.89,1,18.89,Apple Pay,Delivered,3.9,Chicago
+FF-177,CUST-027,Cheesecake,Dessert,2025-11-16 18:43:00,12,12.07,2,24.14,Credit Card,Delivered,,Los Angeles
+FF-178,CUST-011,Coffee,Drinks,2026-01-20 12:45:00,80,2.95,4,11.8,Credit Card,In-Progress,4.2,Houston
+FF-179,CUST-046,Burger,Meals,2025-07-23 02:37:00,15,17.36,2,34.72,Cash on Delivery,Delivered,4.4,Los Angeles
+FF-180,CUST-004,Sushi,Meals,2025-09-06 03:44:00,27,17.39,2,34.78,Credit Card,Delivered,3.9,New York
+FF-181,CUST-010,Brownie,Dessert,2025-11-05 21:38:00,35,9.58,4,38.32,Cash on Delivery,Delivered,3.1,Phoenix
+FF-182,CUST-004,Ice Cream,Dessert,2025-05-04 18:50:00,13,24.87,4,99.48,Cash on Delivery,Delivered,,Los Angeles
+FF-183,CUST-045,Curry,Meals,2025-02-12 11:34:00,43,23.52,4,94.08,Cash on Delivery,Delivered,3.6,Houston
+FF-184,CUST-041,Pizza,Meals,2026-03-15 21:23:00,35,15.84,1,15.84,Apple Pay,Delivered,3.7,Chicago
+FF-185,CUST-008,Curry,Meals,2025-03-12 16:41:00,23,10.0,3,30.0,Cash on Delivery,Cancelled,5.0,San Diego
+FF-186,CUST-025,Caesar Salad,Salads,2025-12-16 00:54:00,61,13.32,1,13.32,Cash on Delivery,Delivered,,New York
+FF-187,CUST-037,Pasta,Meals,2026-03-07 15:06:00,46,16.47,3,49.41,Cash on Delivery,Delivered,3.8,Chicago
+FF-188,CUST-017,Pasta,Meals,2026-03-20 11:40:00,44,20.18,1,20.18,Credit Card,Delivered,,Phoenix
+FF-189,CUST-015,Coffee,Drinks,2026-04-16 22:09:00,44,5.05,3,15.15,Credit Card,Delivered,3.8,Chicago
+FF-190,CUST-007,Pasta,Meals,2026-03-22 05:46:00,72,12.65,1,12.65,PayPal,In-Progress,2.6,San Diego
+FF-191,CUST-003,Orange Juice,Drinks,2025-10-04 19:51:00,62,7.01,4,28.04,Cash on Delivery,Delivered,3.6,Philadelphia
+FF-192,CUST-043,Tacos,Meals,2026-05-11 14:27:00,54,24.66,2,49.32,Credit Card,Delivered,3.1,Phoenix
+FF-193,CUST-043,Tacos,Meals,2025-10-02 10:54:00,23,12.14,1,12.14,Cash on Delivery,Cancelled,5.0,Philadelphia
+FF-194,CUST-023,Garden Salad,Salads,2025-09-09 02:17:00,78,10.51,3,31.53,Credit Card,Delivered,3.6,San Diego
+FF-195,CUST-010,Coffee,Drinks,2026-04-07 07:48:00,76,4.3,4,17.2,PayPal,Delivered,,San Diego
+FF-196,CUST-010,Orange Juice,Drinks,2026-04-21 18:39:00,44,7.53,1,7.53,Credit Card,Delivered,4.1,Philadelphia
+FF-197,CUST-030,Fried Chicken,Meals,2026-01-24 10:01:00,51,16.64,1,16.64,Credit Card,Delivered,,Philadelphia
+FF-198,CUST-043,Chocolate Cake,Dessert,2026-05-22 10:11:00,85,22.95,4,91.8,Credit Card,Cancelled,2.0,New York
+FF-199,CUST-042,Milkshake,Drinks,2026-05-15 06:22:00,54,7.18,1,7.18,Cash on Delivery,Delivered,2.7,New York
+FF-200,CUST-034,Greek Salad,Salads,2025-09-22 10:17:00,55,7.76,2,15.52,PayPal,Delivered,3.2,Houston

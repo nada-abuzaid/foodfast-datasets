@@ -1,0 +1,18 @@
+order_id,customer_id,item_name,item_category,order_timestamp,delivery_duration_mins,item_price_usd,quantity,total_amount_usd,payment_method,delivery_status,customer_rating,order_location
+FF-001,CUST-102,Burger Combo,Meals,2025-01-03 12:45:00,32,12.99,2,25.98,Credit Card,Delivered,4.5,New York
+FF-002,CUST-115,Chocolate Cake,Dessert,2025-01-05 18:20:00,45,8.50,1,8.50,PayPal,Delivered,3.8,Los Angeles
+FF-003,CUST-102,Latte,Drinks,2025-01-06 09:15:00,18,4.25,2,8.50,Apple Pay,Delivered,5.0,New York
+FF-004,CUST-220,Caesar Salad,Salads,2025-01-07 13:00:00,25,7.75,1,7.75,Cash on Delivery,Delivered,4.2,Chicago
+FF-005,CUST-178,Pizza Margherita,Meals,2025-01-08 20:10:00,55,14.99,1,14.99,Credit Card,Delivered,3.5,Houston
+FF-006,CUST-199,Cheesecake,Dessert,2025-01-09 21:00:00,60,9.25,2,18.50,PayPal,Cancelled,,Miami
+FF-007,CUST-145,Orange Juice,Drinks,2025-01-10 10:30:00,20,3.99,3,11.97,Apple Pay,Delivered,4.8,San Francisco
+FF-008,CUST-178,Grilled Chicken,Meals,2025-01-11 19:45:00,70,13.50,1,13.50,Credit Card,Delivered,2.9,Houston
+FF-009,CUST-220,Greek Salad,Salads,2025-01-12 12:10:00,28,8.25,2,16.50,Cash on Delivery,Delivered,4.0,Chicago
+FF-010,CUST-102,Espresso,Drinks,2025-01-13 08:50:00,15,3.50,1,3.50,Apple Pay,Delivered,5.0,New York
+FF-011,CUST-115,Ice Cream Sundae,Dessert,2025-01-14 17:25:00,40,7.75,1,7.75,PayPal,Delivered,4.1,Los Angeles
+FF-012,CUST-145,Club Sandwich,Meals,2025-01-15 13:40:00,35,11.50,2,23.00,Credit Card,Delivered,4.3,San Francisco
+FF-013,CUST-199,Milkshake,Drinks,2025-01-16 15:00:00,22,5.25,1,5.25,Cash on Delivery,Delivered,4.7,Miami
+FF-014,CUST-178,Pasta Alfredo,Meals,2025-01-17 20:30:00,65,13.99,1,13.99,Credit Card,Delivered,3.0,Houston
+FF-015,CUST-220,Brownie,Dessert,2025-01-18 21:15:00,50,6.99,2,13.98,PayPal,Delivered,3.6,Chicago
+...
+FF-200,CUST-310,Smoothie,Drinks,2026-05-30 09:45:00,25,4.75,2,9.50,Apple Pay,Delivered,4.9,Boston

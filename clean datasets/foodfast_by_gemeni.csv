@@ -1,0 +1,201 @@
+order_id,customer_id,item_name,item_category,order_timestamp,delivery_duration_mins,item_price_usd,quantity,total_amount_usd,payment_method,delivery_status,customer_rating,order_location
+FF-001,CUST-1041,Caesar Salad,Salads,2025-04-25 13:12:56,51,12.19,1,12.19,Credit Card,Delivered,3.0,Los Angeles
+FF-002,CUST-1008,Iced Caramel Latte,Drinks,2025-05-09 04:40:28,72,5.92,1,5.92,Cash on Delivery,In-Progress,,Miami
+FF-003,CUST-1002,Churros,Dessert,2025-07-25 11:20:57,63,9.39,1,9.39,PayPal,Returned,4.0,Boston
+FF-004,CUST-1048,Chicken Alfredo Pasta,Meals,2025-08-24 21:25:28,40,13.02,1,13.02,Credit Card,Delivered,5.0,Houston
+FF-005,CUST-1018,Cheeseburger Combo,Meals,2025-09-01 10:08:20,74,25.75,1,25.75,PayPal,Delivered,,Houston
+FF-006,CUST-1016,Matcha Green Tea,Drinks,2026-03-18 12:53:58,66,3.17,1,3.17,Credit Card,Delivered,1.0,Los Angeles
+FF-007,CUST-1015,Philly Cheesesteak,Meals,2025-09-12 06:58:32,36,17.43,3,52.29,Cash on Delivery,Delivered,,Miami
+FF-008,CUST-1009,Chocolate Lava Cake,Dessert,2025-04-11 01:50:30,81,9.55,3,28.65,Cash on Delivery,Delivered,1.0,Chicago
+FF-009,CUST-1048,Sushi Platter,Meals,2025-03-02 05:59:39,60,15.42,1,15.42,PayPal,Delivered,5.0,Miami
+FF-010,CUST-1007,Philly Cheesesteak,Meals,2026-05-14 05:38:09,36,27.93,1,27.93,Credit Card,Delivered,5.0,San Francisco
+FF-011,CUST-1044,Burrito Bowl,Meals,2025-06-11 02:04:15,77,19.63,3,58.89,Credit Card,Delivered,,Houston
+FF-012,CUST-1048,Burrito Bowl,Meals,2025-03-25 15:15:48,86,15.94,1,15.94,Apple Pay,Delivered,1.0,Houston
+FF-013,CUST-1035,Apple Pie,Dessert,2025-11-04 16:38:49,52,7.91,1,7.91,Credit Card,Cancelled,,New York
+FF-014,CUST-1006,Churros,Dessert,2025-08-07 18:25:07,45,13.97,1,13.97,Credit Card,Delivered,5.0,Houston
+FF-015,CUST-1038,Chicken Alfredo Pasta,Meals,2025-11-06 22:16:13,79,19.01,1,19.01,Apple Pay,Delivered,3.0,Los Angeles
+FF-016,CUST-1028,Greek Feta Salad,Salads,2025-06-09 09:54:57,48,9.85,3,29.55,Cash on Delivery,Delivered,3.0,Miami
+FF-017,CUST-1003,Apple Pie,Dessert,2025-04-05 23:05:36,66,13.24,2,26.48,Apple Pay,Delivered,,Chicago
+FF-018,CUST-1002,Apple Pie,Dessert,2026-03-14 20:25:19,13,7.29,1,7.29,Cash on Delivery,Delivered,4.0,New York
+FF-019,CUST-1006,Sparkling Water,Drinks,2025-02-12 11:13:24,58,4.43,1,4.43,Credit Card,Cancelled,,San Francisco
+FF-020,CUST-1014,Chicken Alfredo Pasta,Meals,2026-02-21 22:35:51,31,22.67,1,22.67,Cash on Delivery,Cancelled,,Chicago
+FF-021,CUST-1015,Greek Feta Salad,Salads,2025-12-07 14:59:24,43,14.17,1,14.17,Credit Card,Delivered,3.0,Seattle
+FF-022,CUST-1033,Caprese Salad,Salads,2026-04-17 12:43:50,51,9.56,2,19.12,Cash on Delivery,Delivered,4.0,New York
+FF-023,CUST-1039,Tiramisu,Dessert,2025-10-13 12:47:05,77,8.63,3,25.89,Apple Pay,Delivered,2.0,New York
+FF-024,CUST-1002,Margherita Pizza,Meals,2025-09-29 01:23:34,25,14.86,4,59.44,Apple Pay,Delivered,4.0,Seattle
+FF-025,CUST-1036,Churros,Dessert,2025-07-14 09:16:26,17,6.93,3,20.79,Cash on Delivery,Delivered,,San Francisco
+FF-026,CUST-1013,Philly Cheesesteak,Meals,2025-05-08 10:56:03,76,26.73,2,53.46,PayPal,Delivered,1.0,Miami
+FF-027,CUST-1046,New York Cheesecake,Dessert,2025-06-28 22:24:36,84,9.36,3,28.08,Credit Card,Delivered,1.0,Miami
+FF-028,CUST-1042,Sushi Platter,Meals,2025-11-26 16:55:46,68,24.57,2,49.14,PayPal,Delivered,2.0,Chicago
+FF-029,CUST-1045,Apple Pie,Dessert,2025-12-10 03:24:00,42,10.12,2,20.24,Cash on Delivery,Delivered,4.0,Chicago
+FF-030,CUST-1035,Chicken Alfredo Pasta,Meals,2025-03-16 16:34:52,65,27.74,2,55.48,Cash on Delivery,Cancelled,,Seattle
+FF-031,CUST-1027,New York Cheesecake,Dessert,2025-04-20 15:28:44,40,7.18,2,14.36,PayPal,Delivered,5.0,New York
+FF-032,CUST-1015,Chocolate Lava Cake,Dessert,2025-11-21 16:06:48,90,9.65,2,19.3,PayPal,Delivered,1.0,Boston
+FF-033,CUST-1029,Caprese Salad,Salads,2025-10-11 18:58:47,74,11.15,2,22.3,Credit Card,Delivered,2.0,Miami
+FF-034,CUST-1038,Margherita Pizza,Meals,2025-05-22 05:29:29,41,17.12,1,17.12,Cash on Delivery,Delivered,,Los Angeles
+FF-035,CUST-1018,Margherita Pizza,Meals,2025-07-31 15:17:49,61,20.68,1,20.68,Credit Card,Cancelled,,Seattle
+FF-036,CUST-1001,Apple Pie,Dessert,2026-03-06 19:35:45,81,8.39,1,8.39,PayPal,Delivered,1.0,Houston
+FF-037,CUST-1049,Sushi Platter,Meals,2026-02-19 06:00:32,71,12.46,1,12.46,Credit Card,Cancelled,,Seattle
+FF-038,CUST-1011,Chocolate Lava Cake,Dessert,2026-04-18 06:36:59,18,6.67,1,6.67,PayPal,Delivered,5.0,San Francisco
+FF-039,CUST-1045,Sushi Platter,Meals,2026-03-08 09:11:05,22,16.45,4,65.8,Credit Card,Delivered,4.0,San Francisco
+FF-040,CUST-1028,Cheeseburger Combo,Meals,2025-02-01 09:00:11,37,24.5,2,49.0,Cash on Delivery,Delivered,3.0,Chicago
+FF-041,CUST-1022,Chocolate Lava Cake,Dessert,2025-09-20 13:25:51,33,10.51,1,10.51,Credit Card,Delivered,5.0,Chicago
+FF-042,CUST-1018,Caesar Salad,Salads,2026-01-20 14:26:30,37,12.05,3,36.15,Cash on Delivery,Delivered,5.0,Los Angeles
+FF-043,CUST-1010,Apple Pie,Dessert,2025-05-04 20:36:17,17,12.8,2,25.6,Apple Pay,Delivered,5.0,Los Angeles
+FF-044,CUST-1014,Apple Pie,Dessert,2026-05-17 03:50:33,67,6.1,1,6.1,PayPal,In-Progress,,Chicago
+FF-045,CUST-1049,Philly Cheesesteak,Meals,2026-05-11 16:55:31,67,20.35,2,40.7,Apple Pay,Delivered,2.0,Houston
+FF-046,CUST-1022,Iced Caramel Latte,Drinks,2026-04-21 20:44:51,90,3.48,1,3.48,PayPal,Delivered,1.0,San Francisco
+FF-047,CUST-1007,Chicken Alfredo Pasta,Meals,2025-10-14 21:42:19,47,17.68,1,17.68,Cash on Delivery,Delivered,4.0,Los Angeles
+FF-048,CUST-1006,Sushi Platter,Meals,2026-05-03 23:30:59,74,19.82,2,39.64,Apple Pay,Delivered,,Houston
+FF-049,CUST-1025,Chicken Alfredo Pasta,Meals,2026-04-30 20:09:04,79,16.9,1,16.9,Apple Pay,Delivered,1.0,San Francisco
+FF-050,CUST-1007,Fresh Mango Juice,Drinks,2025-07-17 11:29:19,27,3.57,1,3.57,Cash on Delivery,Delivered,5.0,Houston
+FF-051,CUST-1023,Sushi Platter,Meals,2025-10-17 03:39:36,36,16.42,1,16.42,Apple Pay,Delivered,3.0,New York
+FF-052,CUST-1023,Coca-Cola 500ml,Drinks,2025-10-27 04:35:51,74,3.46,4,13.84,Apple Pay,Delivered,,Boston
+FF-053,CUST-1039,Apple Pie,Dessert,2026-05-05 04:09:13,20,7.47,1,7.47,Credit Card,Delivered,,Chicago
+FF-054,CUST-1017,Burrito Bowl,Meals,2025-09-12 04:18:45,83,27.19,1,27.19,Cash on Delivery,Delivered,2.0,Seattle
+FF-055,CUST-1003,Tiramisu,Dessert,2026-03-16 11:07:06,84,8.38,1,8.38,Credit Card,Delivered,2.0,Houston
+FF-056,CUST-1047,Apple Pie,Dessert,2025-06-27 20:05:50,21,11.28,1,11.28,PayPal,Delivered,5.0,Miami
+FF-057,CUST-1030,Margherita Pizza,Meals,2026-04-10 02:35:29,41,23.31,2,46.62,Cash on Delivery,Cancelled,,Seattle
+FF-058,CUST-1035,Chicken Alfredo Pasta,Meals,2025-05-26 02:35:59,19,22.36,3,67.08,Apple Pay,Delivered,5.0,Boston
+FF-059,CUST-1008,Philly Cheesesteak,Meals,2025-10-06 18:13:17,81,16.87,1,16.87,Credit Card,Delivered,,Seattle
+FF-060,CUST-1025,Sparkling Water,Drinks,2025-01-22 09:48:45,85,3.38,1,3.38,PayPal,Delivered,4.0,Boston
+FF-061,CUST-1006,Greek Feta Salad,Salads,2026-05-19 03:19:19,72,14.98,1,14.98,Credit Card,Delivered,3.0,Chicago
+FF-062,CUST-1036,Philly Cheesesteak,Meals,2026-02-15 20:01:42,16,19.93,2,39.86,Apple Pay,Delivered,5.0,Los Angeles
+FF-063,CUST-1019,Caprese Salad,Salads,2025-01-02 23:56:40,81,14.05,2,28.1,Apple Pay,Delivered,,Boston
+FF-064,CUST-1041,Chocolate Lava Cake,Dessert,2025-10-22 15:57:04,74,7.63,1,7.63,Cash on Delivery,Delivered,2.0,Chicago
+FF-065,CUST-1040,Cheeseburger Combo,Meals,2025-04-27 16:48:02,27,20.84,1,20.84,Apple Pay,Delivered,,Miami
+FF-066,CUST-1024,Sushi Platter,Meals,2025-05-29 13:57:57,36,27.68,1,27.68,Cash on Delivery,Cancelled,,Los Angeles
+FF-067,CUST-1037,Sushi Platter,Meals,2025-10-01 00:05:36,48,17.44,2,34.88,PayPal,Delivered,2.0,Chicago
+FF-068,CUST-1013,Sushi Platter,Meals,2026-01-22 16:34:42,53,17.52,1,17.52,Cash on Delivery,Cancelled,,Seattle
+FF-069,CUST-1046,Sushi Platter,Meals,2026-01-26 14:03:24,31,12.7,2,25.4,Apple Pay,Delivered,,Los Angeles
+FF-070,CUST-1005,Caprese Salad,Salads,2025-01-16 05:14:54,64,8.7,3,26.1,Cash on Delivery,Cancelled,,Los Angeles
+FF-071,CUST-1003,Apple Pie,Dessert,2025-03-24 11:57:45,80,8.71,2,17.42,PayPal,Delivered,1.0,New York
+FF-072,CUST-1043,New York Cheesecake,Dessert,2025-08-21 03:17:26,67,11.05,3,33.15,Credit Card,In-Progress,,Boston
+FF-073,CUST-1015,Margherita Pizza,Meals,2025-02-27 10:40:52,57,26.45,1,26.45,PayPal,Delivered,,Chicago
+FF-074,CUST-1050,Cheeseburger Combo,Meals,2025-09-04 18:07:10,86,21.75,1,21.75,Apple Pay,Delivered,2.0,Boston
+FF-075,CUST-1019,Cheeseburger Combo,Meals,2025-10-22 19:54:03,32,26.38,1,26.38,Apple Pay,Delivered,4.0,Seattle
+FF-076,CUST-1006,Tiramisu,Dessert,2026-01-29 17:35:35,25,12.76,1,12.76,Apple Pay,Delivered,5.0,Miami
+FF-077,CUST-1015,Philly Cheesesteak,Meals,2025-02-20 22:04:42,75,18.33,1,18.33,Cash on Delivery,Delivered,2.0,San Francisco
+FF-078,CUST-1007,Chicken Alfredo Pasta,Meals,2025-05-21 22:52:25,24,21.93,2,43.86,Credit Card,Cancelled,,Miami
+FF-079,CUST-1025,Iced Caramel Latte,Drinks,2025-04-03 10:44:40,53,4.53,2,9.06,Cash on Delivery,Delivered,,San Francisco
+FF-080,CUST-1018,Apple Pie,Dessert,2026-05-09 10:44:44,55,12.64,1,12.64,Credit Card,Delivered,4.0,Chicago
+FF-081,CUST-1030,Coca-Cola 500ml,Drinks,2026-02-11 20:17:28,58,5.51,2,11.02,Apple Pay,Delivered,3.0,Los Angeles
+FF-082,CUST-1041,Apple Pie,Dessert,2026-01-16 03:56:41,41,10.68,2,21.36,Apple Pay,Delivered,5.0,Houston
+FF-083,CUST-1024,Tiramisu,Dessert,2026-02-23 04:14:52,29,13.28,1,13.28,PayPal,Delivered,,Los Angeles
+FF-084,CUST-1011,Burrito Bowl,Meals,2026-03-06 21:23:03,31,14.17,1,14.17,Credit Card,Cancelled,,Boston
+FF-085,CUST-1024,Apple Pie,Dessert,2026-03-31 16:11:27,42,6.26,1,6.26,Credit Card,Cancelled,,San Francisco
+FF-086,CUST-1023,Apple Pie,Dessert,2025-05-06 16:33:20,23,6.48,1,6.48,Credit Card,Delivered,5.0,New York
+FF-087,CUST-1014,Coca-Cola 500ml,Drinks,2025-07-30 02:29:52,82,5.96,2,11.92,Cash on Delivery,Delivered,3.0,San Francisco
+FF-088,CUST-1043,Sparkling Water,Drinks,2025-05-29 04:43:58,81,2.51,3,7.53,Credit Card,Delivered,,Chicago
+FF-089,CUST-1018,Chicken Alfredo Pasta,Meals,2025-09-29 01:54:28,28,21.42,1,21.42,Credit Card,Delivered,3.0,Boston
+FF-090,CUST-1045,Margherita Pizza,Meals,2026-05-31 08:03:58,90,20.21,1,20.21,Apple Pay,Delivered,3.0,Boston
+FF-091,CUST-1044,Chocolate Lava Cake,Dessert,2026-02-16 15:31:12,25,6.49,1,6.49,Credit Card,Delivered,5.0,Los Angeles
+FF-092,CUST-1042,Chicken Alfredo Pasta,Meals,2025-11-29 13:52:05,88,13.05,1,13.05,PayPal,Delivered,3.0,Los Angeles
+FF-093,CUST-1005,Iced Caramel Latte,Drinks,2025-08-09 15:39:30,69,5.48,2,10.96,PayPal,Cancelled,,San Francisco
+FF-094,CUST-1039,Matcha Green Tea,Drinks,2026-03-14 11:22:43,44,3.96,1,3.96,PayPal,Delivered,,Los Angeles
+FF-095,CUST-1041,Cheeseburger Combo,Meals,2026-01-17 04:44:14,83,13.49,1,13.49,Apple Pay,Delivered,1.0,Los Angeles
+FF-096,CUST-1011,Philly Cheesesteak,Meals,2025-02-22 10:28:20,88,27.06,1,27.06,Cash on Delivery,Delivered,,Chicago
+FF-097,CUST-1035,New York Cheesecake,Dessert,2026-01-12 04:10:58,47,12.78,1,12.78,Credit Card,Delivered,3.0,Miami
+FF-098,CUST-1047,Margherita Pizza,Meals,2025-12-14 12:46:49,12,23.24,1,23.24,PayPal,Delivered,,Los Angeles
+FF-099,CUST-1016,Philly Cheesesteak,Meals,2025-08-09 13:41:48,65,27.55,1,27.55,Apple Pay,Delivered,,San Francisco
+FF-100,CUST-1011,Sparkling Water,Drinks,2025-06-09 05:43:52,18,4.59,3,13.77,PayPal,Delivered,4.0,Boston
+FF-101,CUST-1030,Tiramisu,Dessert,2025-04-27 12:34:02,67,8.19,2,16.38,PayPal,Delivered,1.0,Miami
+FF-102,CUST-1025,Sushi Platter,Meals,2025-07-29 10:58:27,39,27.75,1,27.75,Apple Pay,Delivered,4.0,San Francisco
+FF-103,CUST-1018,Sushi Platter,Meals,2026-01-25 19:23:26,41,23.95,1,23.95,Apple Pay,Delivered,3.0,Los Angeles
+FF-104,CUST-1041,Philly Cheesesteak,Meals,2025-03-21 11:23:53,85,12.68,1,12.68,PayPal,Delivered,3.0,Miami
+FF-105,CUST-1045,Cheeseburger Combo,Meals,2026-04-17 13:10:28,23,27.46,1,27.46,PayPal,Delivered,,Seattle
+FF-106,CUST-1036,Tiramisu,Dessert,2025-08-15 12:07:35,33,12.96,2,25.92,Cash on Delivery,Delivered,5.0,San Francisco
+FF-107,CUST-1015,Philly Cheesesteak,Meals,2025-05-30 09:19:10,37,25.04,1,25.04,Credit Card,Delivered,,Chicago
+FF-108,CUST-1044,Caprese Salad,Salads,2026-04-05 20:33:09,53,11.25,1,11.25,Apple Pay,Cancelled,,Chicago
+FF-109,CUST-1021,Sushi Platter,Meals,2025-10-09 21:31:58,19,19.08,1,19.08,PayPal,Delivered,,Boston
+FF-110,CUST-1050,Margherita Pizza,Meals,2025-04-03 22:23:30,88,25.31,1,25.31,Credit Card,Delivered,3.0,Boston
+FF-111,CUST-1050,Greek Feta Salad,Salads,2025-06-04 02:15:09,69,10.25,1,10.25,Apple Pay,Delivered,3.0,Los Angeles
+FF-112,CUST-1004,New York Cheesecake,Dessert,2026-03-26 19:04:50,78,6.31,2,12.62,Apple Pay,Delivered,2.0,Seattle
+FF-113,CUST-1015,Margherita Pizza,Meals,2025-12-09 02:23:59,54,22.86,1,22.86,Apple Pay,Delivered,4.0,Miami
+FF-114,CUST-1003,Sparkling Water,Drinks,2025-05-25 12:44:11,51,5.56,1,5.56,PayPal,In-Progress,,Chicago
+FF-115,CUST-1021,Chocolate Lava Cake,Dessert,2025-12-03 04:39:10,79,8.48,1,8.48,Apple Pay,Delivered,2.0,New York
+FF-116,CUST-1026,Chicken Alfredo Pasta,Meals,2026-05-13 06:59:26,40,27.22,1,27.22,Apple Pay,Returned,,Los Angeles
+FF-117,CUST-1018,Churros,Dessert,2025-02-08 12:15:40,28,12.68,3,38.04,Cash on Delivery,Delivered,,Chicago
+FF-118,CUST-1005,Iced Caramel Latte,Drinks,2025-09-01 16:10:22,90,3.94,2,7.88,PayPal,Delivered,1.0,Houston
+FF-119,CUST-1014,Apple Pie,Dessert,2025-07-18 13:23:33,85,13.72,2,27.44,Apple Pay,Returned,1.0,Seattle
+FF-120,CUST-1037,Tiramisu,Dessert,2025-05-22 09:06:08,18,13.73,2,27.46,Credit Card,Delivered,3.0,Los Angeles
+FF-121,CUST-1046,Chicken Alfredo Pasta,Meals,2025-05-31 15:55:40,23,16.36,3,49.08,Cash on Delivery,In-Progress,,Boston
+FF-122,CUST-1021,Caesar Salad,Salads,2026-01-18 08:35:03,61,10.9,1,10.9,Credit Card,Returned,2.0,San Francisco
+FF-123,CUST-1014,Quinoa Avocado Bowl,Salads,2025-10-21 17:12:05,29,13.54,1,13.54,Credit Card,Delivered,4.0,Los Angeles
+FF-124,CUST-1042,Chicken Alfredo Pasta,Meals,2026-03-10 04:02:53,48,25.36,1,25.36,Cash on Delivery,Delivered,,Seattle
+FF-125,CUST-1032,Churros,Dessert,2026-05-27 21:43:35,80,9.66,1,9.66,Cash on Delivery,Delivered,4.0,Chicago
+FF-126,CUST-1026,Cheeseburger Combo,Meals,2026-03-03 06:49:11,22,21.84,1,21.84,Credit Card,Delivered,4.0,Seattle
+FF-127,CUST-1042,Caesar Salad,Salads,2025-09-17 00:35:28,57,12.45,4,49.8,Credit Card,Delivered,4.0,San Francisco
+FF-128,CUST-1030,Margherita Pizza,Meals,2025-06-29 16:54:59,73,20.74,2,41.48,Credit Card,Delivered,3.0,Boston
+FF-129,CUST-1010,Chicken Alfredo Pasta,Meals,2025-02-12 11:29:25,51,12.7,1,12.7,PayPal,Delivered,3.0,Miami
+FF-130,CUST-1017,Philly Cheesesteak,Meals,2025-02-18 23:52:28,54,15.06,1,15.06,PayPal,Delivered,2.0,Seattle
+FF-131,CUST-1009,Matcha Green Tea,Drinks,2026-05-25 13:22:28,78,3.69,1,3.69,PayPal,Delivered,,Los Angeles
+FF-132,CUST-1016,Chicken Alfredo Pasta,Meals,2025-03-23 11:56:21,49,20.73,1,20.73,PayPal,Delivered,3.0,Chicago
+FF-133,CUST-1048,Apple Pie,Dessert,2025-12-28 22:23:09,67,9.58,2,19.16,Credit Card,Delivered,4.0,Los Angeles
+FF-134,CUST-1036,Tiramisu,Dessert,2025-06-13 01:08:01,30,8.91,2,17.82,PayPal,Delivered,5.0,New York
+FF-135,CUST-1035,Chicken Alfredo Pasta,Meals,2026-01-28 20:39:09,16,24.46,1,24.46,Apple Pay,Delivered,5.0,San Francisco
+FF-136,CUST-1017,Cheeseburger Combo,Meals,2026-02-12 11:26:47,47,21.18,1,21.18,Cash on Delivery,Delivered,,Boston
+FF-137,CUST-1048,Churros,Dessert,2026-04-02 07:48:44,90,6.94,2,13.88,PayPal,Delivered,3.0,Houston
+FF-138,CUST-1038,Cheeseburger Combo,Meals,2026-04-01 03:11:46,52,19.23,3,57.69,Apple Pay,Delivered,3.0,Miami
+FF-139,CUST-1028,Greek Feta Salad,Salads,2025-05-05 07:19:02,29,13.56,1,13.56,Apple Pay,Delivered,5.0,San Francisco
+FF-140,CUST-1038,Churros,Dessert,2025-03-09 11:15:39,62,7.04,3,21.12,PayPal,Returned,2.0,Seattle
+FF-141,CUST-1026,Iced Caramel Latte,Drinks,2025-03-17 16:22:59,71,2.94,1,2.94,Cash on Delivery,Delivered,3.0,Chicago
+FF-142,CUST-1024,Cheeseburger Combo,Meals,2025-11-08 05:59:41,32,25.3,1,25.3,Apple Pay,Delivered,5.0,Miami
+FF-143,CUST-1015,Fresh Mango Juice,Drinks,2025-10-09 04:33:26,50,3.19,4,12.76,Cash on Delivery,Delivered,,Chicago
+FF-144,CUST-1009,Burrito Bowl,Meals,2025-02-12 01:01:58,22,23.53,2,47.06,Apple Pay,Delivered,4.0,Houston
+FF-145,CUST-1033,Matcha Green Tea,Drinks,2025-10-24 23:22:16,50,4.66,1,4.66,PayPal,Delivered,3.0,Miami
+FF-146,CUST-1032,Chocolate Lava Cake,Dessert,2026-04-21 07:25:41,55,7.26,1,7.26,Apple Pay,Delivered,4.0,San Francisco
+FF-147,CUST-1006,Greek Feta Salad,Salads,2025-04-19 11:37:07,42,13.32,1,13.32,Cash on Delivery,Delivered,5.0,Chicago
+FF-148,CUST-1049,Margherita Pizza,Meals,2026-03-05 09:02:21,32,27.13,3,81.39,Apple Pay,Delivered,5.0,Houston
+FF-149,CUST-1004,Matcha Green Tea,Drinks,2025-11-12 18:06:31,14,5.99,1,5.99,PayPal,Delivered,3.0,Houston
+FF-150,CUST-1008,Margherita Pizza,Meals,2026-04-27 10:24:13,80,12.78,1,12.78,Cash on Delivery,Delivered,,Miami
+FF-151,CUST-1010,Matcha Green Tea,Drinks,2025-07-19 13:11:56,82,3.78,1,3.78,PayPal,Delivered,2.0,Miami
+FF-152,CUST-1041,Sparkling Water,Drinks,2025-04-10 14:20:29,59,4.88,1,4.88,Apple Pay,Delivered,3.0,Chicago
+FF-153,CUST-1011,Burrito Bowl,Meals,2025-02-09 04:59:21,54,18.42,1,18.42,Cash on Delivery,Delivered,3.0,Chicago
+FF-154,CUST-1044,Burrito Bowl,Meals,2025-11-03 21:37:00,55,17.1,1,17.1,PayPal,Delivered,3.0,Miami
+FF-155,CUST-1028,Chocolate Lava Cake,Dessert,2026-03-03 21:15:07,51,8.95,2,17.9,Credit Card,Delivered,5.0,Boston
+FF-156,CUST-1039,Philly Cheesesteak,Meals,2025-08-22 01:52:11,86,24.53,2,49.06,PayPal,Delivered,2.0,Chicago
+FF-157,CUST-1005,Coca-Cola 500ml,Drinks,2025-04-23 06:56:46,14,2.61,3,7.83,PayPal,Delivered,5.0,Houston
+FF-158,CUST-1025,Burrito Bowl,Meals,2025-03-05 05:01:38,78,26.73,3,80.19,PayPal,Delivered,3.0,Seattle
+FF-159,CUST-1025,Chicken Alfredo Pasta,Meals,2025-12-29 23:25:19,45,19.35,1,19.35,Cash on Delivery,Delivered,,Miami
+FF-160,CUST-1039,New York Cheesecake,Dessert,2025-10-23 07:32:48,74,13.53,4,54.12,Apple Pay,Delivered,4.0,Miami
+FF-161,CUST-1030,Philly Cheesesteak,Meals,2026-02-09 12:33:57,30,20.69,3,62.07,Credit Card,Delivered,5.0,San Francisco
+FF-162,CUST-1034,Quinoa Avocado Bowl,Salads,2025-10-05 20:27:44,46,13.23,1,13.23,Cash on Delivery,Delivered,3.0,Houston
+FF-163,CUST-1017,Burrito Bowl,Meals,2025-04-13 15:02:52,54,15.61,1,15.61,Cash on Delivery,Delivered,,New York
+FF-164,CUST-1036,Greek Feta Salad,Salads,2026-05-03 17:23:00,37,10.85,3,32.55,Apple Pay,Delivered,4.0,New York
+FF-165,CUST-1001,Caesar Salad,Salads,2025-02-08 06:22:26,65,12.57,1,12.57,Cash on Delivery,Cancelled,,New York
+FF-166,CUST-1044,Caprese Salad,Salads,2025-10-24 01:21:50,13,13.52,1,13.52,Apple Pay,Delivered,4.0,Miami
+FF-167,CUST-1047,Churros,Dessert,2025-05-18 18:21:28,71,10.19,3,30.57,Apple Pay,Delivered,1.0,Chicago
+FF-168,CUST-1008,Fresh Mango Juice,Drinks,2025-12-12 10:44:29,84,5.02,1,5.02,PayPal,Delivered,,Seattle
+FF-169,CUST-1044,Chocolate Lava Cake,Dessert,2025-05-24 17:23:00,53,9.21,1,9.21,Credit Card,In-Progress,,Miami
+FF-170,CUST-1035,Sushi Platter,Meals,2025-11-06 21:12:24,85,24.06,4,96.24,Cash on Delivery,Delivered,2.0,New York
+FF-171,CUST-1049,Tiramisu,Dessert,2026-05-30 11:19:20,27,8.45,1,8.45,Apple Pay,Delivered,3.0,Houston
+FF-172,CUST-1018,Chicken Alfredo Pasta,Meals,2026-01-18 15:08:25,82,19.65,1,19.65,Cash on Delivery,Cancelled,,Houston
+FF-173,CUST-1050,Churros,Dessert,2026-04-03 19:13:48,58,12.99,1,12.99,Credit Card,Delivered,3.0,Houston
+FF-174,CUST-1042,New York Cheesecake,Dessert,2026-03-29 04:13:55,38,7.32,3,21.96,PayPal,Delivered,5.0,New York
+FF-175,CUST-1022,Churros,Dessert,2026-04-19 11:13:12,14,9.32,1,9.32,Cash on Delivery,Delivered,4.0,Los Angeles
+FF-176,CUST-1008,Margherita Pizza,Meals,2025-03-03 02:30:46,72,23.21,1,23.21,Cash on Delivery,Delivered,1.0,Seattle
+FF-177,CUST-1019,Sushi Platter,Meals,2026-01-22 13:40:36,22,19.18,3,57.54,Cash on Delivery,Delivered,5.0,San Francisco
+FF-178,CUST-1028,Burrito Bowl,Meals,2025-08-17 00:07:35,14,18.29,1,18.29,PayPal,In-Progress,,Seattle
+FF-179,CUST-1011,New York Cheesecake,Dessert,2025-10-10 06:51:44,26,7.98,1,7.98,Credit Card,Delivered,5.0,Houston
+FF-180,CUST-1030,Cheeseburger Combo,Meals,2025-02-19 08:54:37,17,21.5,1,21.5,Cash on Delivery,Delivered,4.0,New York
+FF-181,CUST-1001,Margherita Pizza,Meals,2025-11-23 21:01:30,88,15.75,3,47.25,Cash on Delivery,Delivered,2.0,Miami
+FF-182,CUST-1047,Greek Feta Salad,Salads,2025-06-29 22:47:30,66,10.89,1,10.89,Apple Pay,Delivered,,Seattle
+FF-183,CUST-1047,Fresh Mango Juice,Drinks,2025-11-04 13:42:23,35,4.94,1,4.94,Cash on Delivery,Delivered,4.0,Miami
+FF-184,CUST-1017,Greek Feta Salad,Salads,2026-02-27 15:09:52,83,13.64,3,40.92,Apple Pay,Delivered,3.0,Houston
+FF-185,CUST-1033,Cheeseburger Combo,Meals,2025-04-05 19:30:06,36,26.76,2,53.52,Credit Card,Delivered,4.0,Los Angeles
+FF-186,CUST-1049,Burrito Bowl,Meals,2026-05-06 07:36:19,54,23.59,1,23.59,Cash on Delivery,Delivered,4.0,Houston
+FF-187,CUST-1012,Caesar Salad,Salads,2025-09-06 22:00:20,38,13.23,2,26.46,Apple Pay,Delivered,5.0,Miami
+FF-188,CUST-1033,Burrito Bowl,Meals,2026-01-04 18:40:15,75,22.38,1,22.38,PayPal,Delivered,2.0,San Francisco
+FF-189,CUST-1007,Quinoa Avocado Bowl,Salads,2025-08-15 05:18:46,14,10.19,1,10.19,PayPal,Delivered,3.0,Miami
+FF-190,CUST-1041,Margherita Pizza,Meals,2025-09-09 18:10:44,82,15.68,1,15.68,Apple Pay,Delivered,3.0,Boston
+FF-191,CUST-1020,Caprese Salad,Salads,2025-12-27 06:09:45,29,11.23,2,22.46,Credit Card,Delivered,4.0,New York
+FF-192,CUST-1041,Iced Caramel Latte,Drinks,2025-01-07 15:00:53,29,5.81,2,11.62,Cash on Delivery,Delivered,4.0,New York
+FF-193,CUST-1033,Sushi Platter,Meals,2026-05-10 17:45:44,14,17.97,2,35.94,Credit Card,Delivered,3.0,New York
+FF-194,CUST-1039,Apple Pie,Dessert,2026-05-30 15:40:36,34,10.29,1,10.29,Cash on Delivery,Delivered,,Houston
+FF-195,CUST-1013,Burrito Bowl,Meals,2026-02-11 02:52:37,59,16.04,1,16.04,PayPal,In-Progress,,Houston
+FF-196,CUST-1010,Greek Feta Salad,Salads,2025-03-24 23:48:06,16,10.1,2,20.2,PayPal,Delivered,5.0,New York
+FF-197,CUST-1024,New York Cheesecake,Dessert,2025-12-06 20:36:07,24,6.66,2,13.32,Credit Card,Cancelled,,Houston
+FF-198,CUST-1049,Philly Cheesesteak,Meals,2025-02-17 02:42:24,47,26.2,1,26.2,Credit Card,Cancelled,,Chicago
+FF-199,CUST-1011,Quinoa Avocado Bowl,Salads,2025-05-28 14:30:05,21,8.11,1,8.11,PayPal,Delivered,3.0,San Francisco
+FF-200,CUST-1035,Philly Cheesesteak,Meals,2025-03-22 18:13:59,56,14.24,4,56.96,Credit Card,Delivered,4.0,San Francisco
